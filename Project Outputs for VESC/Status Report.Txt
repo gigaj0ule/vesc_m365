@@ -1,0 +1,11 @@
+Output: Simple BOM
+Type  : SimpleBOM
+From  : Variant [[No Variations]] of Project [VESC.PrjPcb]
+   Generated File[VESC.BOM]
+   Generated File[VESC.CSV]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 5:25:32 PM On 12/15/2018
