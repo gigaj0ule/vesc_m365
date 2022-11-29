@@ -1,4 +1,0 @@
-Added Component: Designator=R12(RES 0402)
-Added Pin To Net: NetName=GND Pin=R12-1
-Added Pin To Net: NetName=DISABLE_GATES Pin=R12-2
-Added Member To Class: ClassName=Vesc Member=Component R12 ERJ-2RKF2201X

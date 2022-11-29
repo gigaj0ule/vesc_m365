@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=ESTOP Pin=R7B-1
-Removed Pin From Net: NetName=ESTOP Pin=R8B-1
-Removed Pin From Net: NetName=ESTOP Pin=R9B-1
-Removed Member From Class: ClassName=Vesc Member=D4A
-Change Net Name : Old Net Name=ESTOP New Net Name=MA_ESTOP
-Added Pin To Net: NetName=MB_ESTOP Pin=R7B-1
-Added Pin To Net: NetName=MB_ESTOP Pin=R8B-1
-Added Pin To Net: NetName=MB_ESTOP Pin=R9B-1
-Added Net: Name=MB_ESTOP

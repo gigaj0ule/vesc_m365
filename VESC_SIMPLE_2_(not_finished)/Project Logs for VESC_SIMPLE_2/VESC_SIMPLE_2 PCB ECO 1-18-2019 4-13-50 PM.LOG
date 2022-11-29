@@ -1,4 +1,0 @@
-Added Component: Designator=R91(RES 0402)
-Added Pin To Net: NetName=GND Pin=R91-1
-Added Pin To Net: NetName=MA_VSSA Pin=R91-2
-Added Member To Class: ClassName=Vesc_Simple_2 Member=Component R91 ERJ-2GE0R00X

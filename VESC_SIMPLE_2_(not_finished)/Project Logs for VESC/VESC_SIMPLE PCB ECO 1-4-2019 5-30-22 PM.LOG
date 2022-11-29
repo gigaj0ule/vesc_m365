@@ -1,2 +1,0 @@
-Removed Pin From Net: NetName=DISABLE_GATES Pin=J10-12
-Added Pin To Net: NetName=DISABLE_GATES Pin=J10-13

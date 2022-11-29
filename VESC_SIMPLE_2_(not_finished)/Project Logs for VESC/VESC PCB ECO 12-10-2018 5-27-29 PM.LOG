@@ -1,7 +1,0 @@
-Change Component DesignItemId : Designator=J10 Old DesignItemId=HEADER_12P1_FEMALE_TH New DesignItemId=HEADER_12P1
-Change Component DesignItemId : Designator=J9 Old DesignItemId=HEADER_28P1_FEMALE_TH New DesignItemId=HEADER_28P1
-Change Component Comment : Designator=J10 Old Comment=HEADER_12P1_FEMALE_TH New Comment=HEADER_12P1
-Change Component Comment : Designator=J9 Old Comment=HEADER_28P1_FEMALE_TH New Comment=HEADER_28P1
-Change Component Description : Designator=J10 Old Description=Through-Hole Header 12 Pin 1 Row Female New Description=2.54mm Header 12 Pin 1 Row
-Change Component Description : Designator=J9 Old Description=Through-Hole Header 28 Pin 1 Row Female New Description=2.54mm Header 28 Pin 1 Row
-Added Room: Name=Vesc

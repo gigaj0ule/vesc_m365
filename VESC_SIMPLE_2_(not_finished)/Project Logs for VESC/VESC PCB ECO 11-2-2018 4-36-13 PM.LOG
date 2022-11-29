@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=V_SUPPLY Pin=L1-2
-Removed Pin From Net: NetName=V_SUPPLY Pin=R17-2
-Added Pin To Net: NetName=V_OUT Pin=L1-2
-Added Pin To Net: NetName=V_OUT Pin=R17-2
-Added Net: Name=V_OUT

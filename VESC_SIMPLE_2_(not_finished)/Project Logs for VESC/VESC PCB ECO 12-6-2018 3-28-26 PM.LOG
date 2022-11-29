@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=MA_EN_GATE Pin=U3A-33
-Added Component: Designator=R39A(RES 0402)
-Added Pin To Net: NetName=MA_EN_GATE Pin=R39A-2
-Added Pin To Net: NetName=MA_EN_GATE_R Pin=R39A-1
-Added Pin To Net: NetName=MA_EN_GATE_R Pin=U3A-33
-Added Net: Name=MA_EN_GATE_R
-Added Member To Class: ClassName=Vesc Member=Component R39A ERJ-2RKF2201X

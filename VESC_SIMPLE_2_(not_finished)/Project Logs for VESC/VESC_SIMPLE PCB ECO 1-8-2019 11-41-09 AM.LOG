@@ -1,5 +1,0 @@
-Added Pin To Net: NetName=CHARGEPUMP Pin=U1A-58
-Added Pin To Net: NetName=BUSFET Pin=U1A-59
-Added Pin To Net: NetName=CAN_TX Pin=U1A-62
-Added Pin To Net: NetName=CAN_TX Pin=U1B-62
-Added Net: Name=CAN_TX

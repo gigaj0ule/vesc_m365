@@ -1,8 +1,0 @@
-Change Net Name : Old Net Name=ADC_TEMP New Net Name=MA_ADC_TEMP
-Change Net Name : Old Net Name=MISO_ADC_EXT2 New Net Name=MA_MISO_ADC_EXT2
-Change Net Name : Old Net Name=RX_SDA_NSS New Net Name=MA_RX_SDA_NSS
-Change Net Name : Old Net Name=SCK_ADC_EXT New Net Name=MA_SCK_ADC_EXT
-Change Net Name : Old Net Name=TX_SCL_MOSI New Net Name=MA_TX_SCL_MOSI
-Change Net Name : Old Net Name=VOLTAGE_A New Net Name=MA_VOLTAGE_A
-Change Net Name : Old Net Name=VOLTAGE_B New Net Name=MA_VOLTAGE_B
-Change Net Name : Old Net Name=VOLTAGE_C New Net Name=MA_VOLTAGE_C

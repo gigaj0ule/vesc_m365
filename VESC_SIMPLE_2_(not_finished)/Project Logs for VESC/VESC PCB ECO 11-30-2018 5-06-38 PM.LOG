@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=MA_PA_SOURCE Pin=R7A-1
-Removed Pin From Net: NetName=MA_PB_SOURCE Pin=R8A-1
-Removed Pin From Net: NetName=MA_PC_SOURCE Pin=R9A-1
-Added Pin To Net: NetName=ESTOP Pin=R7A-1
-Added Pin To Net: NetName=ESTOP Pin=R8A-1
-Added Pin To Net: NetName=ESTOP Pin=R9A-1
-Added Net: Name=ESTOP

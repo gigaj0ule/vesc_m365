@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=MB_RX Pin=J9-8
-Removed Pin From Net: NetName=MB_USB_DP Pin=J9-9
-Removed Pin From Net: NetName=MB_USB_DM Pin=J9-10
-Added Pin To Net: NetName=VCC_12V Pin=J9-8
-Added Pin To Net: NetName=MB_RX Pin=J9-9
-Added Pin To Net: NetName=MB_USB_DP Pin=J9-10
-Added Pin To Net: NetName=MB_USB_DM Pin=J9-11

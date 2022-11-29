@@ -1,7 +1,0 @@
-Added Component: Designator=JHA(B05B-PASK)
-Added Pin To Net: NetName=VCC Pin=JHA-1
-Added Pin To Net: NetName=MA_HALL3_IN Pin=JHA-2
-Added Pin To Net: NetName=MA_HALL2_IN Pin=JHA-3
-Added Pin To Net: NetName=MA_HALL1_IN Pin=JHA-4
-Added Pin To Net: NetName=GND Pin=JHA-5
-Added Member To Class: ClassName=Vesc Member=Component JHA B05B-PASK

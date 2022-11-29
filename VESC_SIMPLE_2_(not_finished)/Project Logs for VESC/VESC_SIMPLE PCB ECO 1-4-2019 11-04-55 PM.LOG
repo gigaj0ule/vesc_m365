@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=MA_MISO_ADC_EXT2 Pin=J11-5
-Removed Pin From Net: NetName=MA_SCK_ADC_EXT Pin=J11-6
-Added Pin To Net: NetName=MA_SCK_ADC_EXT Pin=J11-5
-Added Pin To Net: NetName=MA_MISO_ADC_EXT2 Pin=J11-6

@@ -1,4 +1,0 @@
-Change Component Designator: OldDesignator=J10 NewDesignator=J11
-Change Component Designator: OldDesignator=J10 NewDesignator=J12
-Added Member To Class: ClassName=Vesc Member=Component J11 HEADER_14P1
-Added Member To Class: ClassName=Vesc Member=Component J12 HEADER_14P1

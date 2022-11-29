@@ -1,7 +1,0 @@
-Added Pin To Net: NetName=DISABLE_GATES Pin=J9-12
-Added Pin To Net: NetName=MA_CAN_TX Pin=J9-13
-Added Pin To Net: NetName=MA_CAN_RX Pin=J9-14
-Added Pin To Net: NetName=MA_SCK_ADC_EXT Pin=J9-15
-Added Pin To Net: NetName=MA_MISO_ADC_EXT2 Pin=J9-16
-Added Pin To Net: NetName=MA_TX Pin=J9-17
-Added Pin To Net: NetName=MA_RX Pin=J9-18

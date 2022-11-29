@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=MA_SCK_ADC_EXT Pin=J9-19
-Removed Pin From Net: NetName=MA_MISO_ADC_EXT2 Pin=J9-20
-Removed Pin From Net: NetName=MA_TX Pin=J9-21
-Removed Pin From Net: NetName=MA_RX Pin=J9-22
-Added Pin To Net: NetName=MA_USB_DP Pin=J9-19
-Added Pin To Net: NetName=MA_USB_DM Pin=J9-20
-Added Pin To Net: NetName=MA_SCK_ADC_EXT Pin=J9-21
-Added Pin To Net: NetName=MA_MISO_ADC_EXT2 Pin=J9-22
-Added Pin To Net: NetName=MA_TX Pin=J9-23

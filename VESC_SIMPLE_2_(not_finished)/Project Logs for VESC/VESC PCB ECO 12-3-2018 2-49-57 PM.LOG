@@ -1,6 +1,0 @@
-Added Pin To Net: NetName=MA_NFAULT Pin=U1A-53
-Added Pin To Net: NetName=MA_NFAULT Pin=U3A-28
-Added Net: Name=MA_NFAULT
-Added Pin To Net: NetName=MB_NFAULT Pin=U1B-53
-Added Pin To Net: NetName=MB_NFAULT Pin=U3B-28
-Added Net: Name=MB_NFAULT

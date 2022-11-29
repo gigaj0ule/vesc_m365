@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=VCC_3V3 Pin=R41A-2
-Added Pin To Net: NetName=NetR41A_2 Pin=R41A-2
-Added Pin To Net: NetName=NetR41A_2 Pin=R42A-2
-Added Pin To Net: NetName=NetR41A_2 Pin=U1-4
-Added Net: Name=NetR41A_2

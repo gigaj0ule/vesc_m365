@@ -1,9 +1,0 @@
-Added Pin To Net: NetName=MAB_JTCK Pin=U1A-49
-Added Pin To Net: NetName=MAB_JTCK Pin=U1B-49
-Added Net: Name=MAB_JTCK
-Added Pin To Net: NetName=MAB_JTMS Pin=U1A-46
-Added Pin To Net: NetName=MAB_JTMS Pin=U1B-46
-Added Net: Name=MAB_JTMS
-Added Pin To Net: NetName=MAB_NJTRST Pin=U1A-56
-Added Pin To Net: NetName=MAB_NJTRST Pin=U1B-56
-Added Net: Name=MAB_NJTRST

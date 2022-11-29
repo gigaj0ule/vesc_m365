@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=MA_HALL_1 Pin=U1A-37
-Removed Pin From Net: NetName=MA_HALL_2 Pin=U1A-38
-Removed Pin From Net: NetName=MA_HALL_3 Pin=U1A-39
-Removed Pin From Net: NetName=CHARGEPUMP Pin=U1A-58
-Removed Pin From Net: NetName=BUSFET Pin=U1A-59
-Added Pin To Net: NetName=MA_HALL_3 Pin=U1A-52
-Added Pin To Net: NetName=MA_HALL_1 Pin=U1A-58
-Added Pin To Net: NetName=MA_HALL_2 Pin=U1A-59

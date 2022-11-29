@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=NetC1B_1 Pin=Y1B-1
-Removed Pin From Net: NetName=NetC2B_1 Pin=Y1B-2
-Change Component DesignItemId : Designator=Y1B Old DesignItemId=7A-8.000MAAE-T New DesignItemId=CSTNE8M00G550000R0
-Change Component Footprint: Designator=Y1B Old Footprint=TXC 7A New Footprint=MuRata CSTN
-Change Component Comment : Designator=Y1B Old Comment=7A-8.000MAAE-T New Comment=CSTNE8M00G550000R0
-Added Pin To Net: NetName=NetC2B_1 Pin=Y1B-1
-Added Pin To Net: NetName=GND Pin=Y1B-2
-Added Pin To Net: NetName=NetC1B_1 Pin=Y1B-3

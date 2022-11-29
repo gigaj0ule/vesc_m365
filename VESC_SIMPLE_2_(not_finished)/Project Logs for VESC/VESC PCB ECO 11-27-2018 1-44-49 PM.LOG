@@ -1,3 +1,0 @@
-Change Component DesignItemId : Designator=J9 Old DesignItemId=HEADER_16P1_FEMALE_TH New DesignItemId=HEADER_20P1_FEMALE_TH
-Change Component Footprint: Designator=J9 Old Footprint=HEADER_16P1_FEMALE_TH New Footprint=HEADER_20P1_FEMALE_TH
-Change Component Comment : Designator=J9 Old Comment=HEADER_16P1_FEMALE_TH New Comment=HEADER_20P1_FEMALE_TH

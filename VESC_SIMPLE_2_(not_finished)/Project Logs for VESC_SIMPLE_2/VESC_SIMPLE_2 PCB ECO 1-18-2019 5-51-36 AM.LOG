@@ -1,7 +1,0 @@
-Added Component: Designator=U12(SOT-23-6)
-Added Pin To Net: NetName=MA_CURRENT_A Pin=U12-1
-Added Pin To Net: NetName=GND Pin=U12-2
-Added Pin To Net: NetName=MA_PA_AGND_F Pin=U12-3
-Added Pin To Net: NetName=MA_PA_SOURCE_F Pin=U12-4
-Added Pin To Net: NetName=VCC_3V3 Pin=U12-6
-Added Member To Class: ClassName=Vesc_Simple_2 Member=Component U12 INA181A1IDBVR

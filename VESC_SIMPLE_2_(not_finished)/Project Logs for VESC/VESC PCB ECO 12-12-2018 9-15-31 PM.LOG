@@ -1,3 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=U1A-60
-Added Pin To Net: NetName=BOOT1 Pin=U1A-28
-Added Pin To Net: NetName=BOOT0 Pin=U1A-60

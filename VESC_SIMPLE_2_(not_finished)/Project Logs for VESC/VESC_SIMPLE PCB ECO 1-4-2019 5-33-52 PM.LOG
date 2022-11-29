@@ -1,3 +1,0 @@
-Removed Pin From Net: NetName=VCC_12V_SD Pin=J10-14
-Removed Pin From Net: NetName=VCC_3V3 Pin=J11-11
-Added Pin To Net: NetName=VCC_12V_SD Pin=J11-11

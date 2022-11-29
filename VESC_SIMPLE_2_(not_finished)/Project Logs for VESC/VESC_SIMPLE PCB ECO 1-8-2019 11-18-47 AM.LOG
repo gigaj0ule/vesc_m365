@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=NTC_M Pin=J12-2
-Removed Pin From Net: NetName=GND Pin=J12-6
-Removed Pin From Net: NetName=GND Pin=J12-7
-Removed Pin From Net: NetName=GND Pin=J12-8
-Added Pin To Net: NetName=GND Pin=J12-2

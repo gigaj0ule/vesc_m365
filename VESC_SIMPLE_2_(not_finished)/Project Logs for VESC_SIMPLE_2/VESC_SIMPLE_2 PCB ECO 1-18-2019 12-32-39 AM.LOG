@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=MA_PA_SOURCE_F Pin=U22-8
-Removed Pin From Net: NetName=MA_PC_SOURCE_F Pin=U24-8
-Added Pin To Net: NetName=MA_PA_SOURCE Pin=U22-8
-Added Pin To Net: NetName=MA_PB_AGND Pin=U23-8
-Added Pin To Net: NetName=MA_PC_SOURCE Pin=U24-8

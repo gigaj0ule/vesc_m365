@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=J10-1
-Removed Pin From Net: NetName=V_SUPPLY Pin=J10-7
-Change Component DesignItemId : Designator=J10 Old DesignItemId=HEADER_12P1 New DesignItemId=HEADER_14P1
-Change Component Footprint: Designator=J10 Old Footprint=HEADER_12P1_FEMALE_TH New Footprint=HEADER_14P1_FEMALE_TH
-Change Component Comment : Designator=J10 Old Comment=HEADER_12P1 New Comment=HEADER_14P1
-Added Pin To Net: NetName=GND Pin=J10-7
-Added Pin To Net: NetName=V_SUPPLY Pin=J10-13

@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=MA_PA_AGND Pin=C35A-1
-Removed Pin From Net: NetName=MA_PB_AGND Pin=C36A-1
-Removed Pin From Net: NetName=MA_PC_AGND Pin=C37A-1
-Added Pin To Net: NetName=GND Pin=C35A-1
-Added Pin To Net: NetName=GND Pin=C36A-1
-Added Pin To Net: NetName=GND Pin=C37A-1

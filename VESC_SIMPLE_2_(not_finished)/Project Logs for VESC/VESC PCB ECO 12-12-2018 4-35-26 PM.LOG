@@ -1,4 +1,0 @@
-Added Component: Designator=Y1B(TXC 7A)
-Added Pin To Net: NetName=NetC1B_1 Pin=Y1B-1
-Added Pin To Net: NetName=NetC2B_1 Pin=Y1B-2
-Added Member To Class: ClassName=Vesc Member=Component Y1B 7A-8.000MAAE-T

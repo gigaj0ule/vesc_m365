@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=C18B-2
-Removed Pin From Net: NetName=V_SUPPLY Pin=C20B-1
-Removed Pin From Net: NetName=MB_DVDD Pin=C23B-2
-Removed Member From Class: ClassName=Vesc_Simple_2 Member=C19B
-Removed Member From Class: ClassName=Vesc_Simple_2 Member=C20B

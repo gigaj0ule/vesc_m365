@@ -1,3 +1,0 @@
-Removed Pin From Net: NetName=V_SUPPLY Pin=C21A-2
-Added Pin To Net: NetName=NetD3A_2 Pin=C21A-2
-Change Net Name : Old Net Name=NetD3A_2 New Net Name=NetC21A_2
