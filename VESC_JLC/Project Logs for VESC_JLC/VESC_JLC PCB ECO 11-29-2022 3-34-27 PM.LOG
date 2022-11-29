@@ -1,0 +1,1509 @@
+Change component parameters: Designator = "L1"; Footprint = "IND 1008"; UniqueID = "\DAPASWSF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7uH"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1"; Footprint = "RES 0402"; UniqueID = "\LSOHETQO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1A"; Footprint = "RES 0402"; UniqueID = "\CHUDXYYD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1B"; Footprint = "RES 0402"; UniqueID = "\YRDTXTBA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2"; Footprint = "RES 0402"; UniqueID = "\SSONLLSD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2A"; Footprint = "RES 0402"; UniqueID = "\EUBGJKWY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2B"; Footprint = "RES 0402"; UniqueID = "\IIWFJTAF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3"; Footprint = "RES 0402"; UniqueID = "\MPNUWBDD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3A"; Footprint = "RES 0402"; UniqueID = "\IITRFATK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3B"; Footprint = "RES 0402"; UniqueID = "\HMWCANEF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4A"; Footprint = "RES 0402"; UniqueID = "\KRGWCBJJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4B"; Footprint = "RES 0402"; UniqueID = "\GLNSQSWS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5"; Footprint = "RES 0402"; UniqueID = "\KNGATWNB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "39k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5A"; Footprint = "RES 0402"; UniqueID = "\BMJKEQBN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5B"; Footprint = "RES 0402"; UniqueID = "\DMPNTADS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6"; Footprint = "RES 0402"; UniqueID = "\NBSWHUKT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6A"; Footprint = "RES 0402"; UniqueID = "\ETODHBVH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6B"; Footprint = "RES 0402"; UniqueID = "\GTQORPYW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7A"; Footprint = "RES 0402"; UniqueID = "\UBQIECKK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "39k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7B"; Footprint = "RES 0402"; UniqueID = "\JHUGADCG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "39k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8A"; Footprint = "RES 0402"; UniqueID = "\ALDUGTMO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "39k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8B"; Footprint = "RES 0402"; UniqueID = "\SPYUJTSU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "39k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9A"; Footprint = "RES 0402"; UniqueID = "\USPQSYNP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "39k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9B"; Footprint = "RES 0402"; UniqueID = "\EAPENWMK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "39k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10"; Footprint = "RES 0402"; UniqueID = "\XHMFLOTP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10A"; Footprint = "WSL2726"; UniqueID = "\JFRDLNAW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "1m"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10B"; Footprint = "WSL2726"; UniqueID = "\WDWFJDRP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "1m"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11"; Footprint = "RES 0402"; UniqueID = "\JUCKPQYL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12"; Footprint = "RES 0402"; UniqueID = "\WQNVALPN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12A"; Footprint = "WSL2726"; UniqueID = "\RJQFNSEK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "1m"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12B"; Footprint = "WSL2726"; UniqueID = "\LBLWLKUH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "1m"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13"; Footprint = "RES 0402"; UniqueID = "\SLFJIHEL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13A"; Footprint = "RES 0402"; UniqueID = "\AHRPUAHN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13B"; Footprint = "RES 0402"; UniqueID = "\RKPRVEKH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14A"; Footprint = "RES 0402"; UniqueID = "\MLNSVLHP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14B"; Footprint = "RES 0402"; UniqueID = "\MOFWKCPS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15A"; Footprint = "RES 0402"; UniqueID = "\RTLGYPJK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15B"; Footprint = "RES 0402"; UniqueID = "\HHMUNMXS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16A"; Footprint = "RES 0402"; UniqueID = "\DPCWJAVD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16B"; Footprint = "RES 0402"; UniqueID = "\WHFHXGJJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R17A"; Footprint = "RES 0402"; UniqueID = "\BWBPMTKL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R17B"; Footprint = "RES 0402"; UniqueID = "\EHRLJWHL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R18A"; Footprint = "RES 0402"; UniqueID = "\XYWVLJYJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R18B"; Footprint = "RES 0402"; UniqueID = "\ACUNRCEP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R19A"; Footprint = "RES 0402"; UniqueID = "\CYHMDUFN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "39k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R19B"; Footprint = "RES 0402"; UniqueID = "\AJPVERWS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "39k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R20A"; Footprint = "RES 0402"; UniqueID = "\YGVUBXSY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R20B"; Footprint = "RES 0402"; UniqueID = "\PGWFLXUS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R21A"; Footprint = "RES 0402"; UniqueID = "\WROHTAMO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "39k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R21B"; Footprint = "RES 0402"; UniqueID = "\PRBYRMLY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "39k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R22A"; Footprint = "RES 0402"; UniqueID = "\WMMPUTFR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R22B"; Footprint = "RES 0402"; UniqueID = "\LSAKXSMM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R23A"; Footprint = "RES 0402"; UniqueID = "\VQMGRDWW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "39k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R23B"; Footprint = "RES 0402"; UniqueID = "\KXLKREFX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "39k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R24A"; Footprint = "RES 0402"; UniqueID = "\CNNUDBAT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R24B"; Footprint = "RES 0402"; UniqueID = "\NWIVXQYO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R25A"; Footprint = "RES 0402"; UniqueID = "\ILLNTNIT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R25B"; Footprint = "RES 0402"; UniqueID = "\QYHLIJHR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R26A"; Footprint = "RES 0402"; UniqueID = "\FILSQHPX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R26B"; Footprint = "RES 0402"; UniqueID = "\XTFSLTVR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R29A"; Footprint = "RES 0402"; UniqueID = "\VJPMJTDX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R29B"; Footprint = "RES 0402"; UniqueID = "\MKVWCNVP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R30A"; Footprint = "RES 0402"; UniqueID = "\XYMALOEL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R30B"; Footprint = "RES 0402"; UniqueID = "\TYSVGFHN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R32A"; Footprint = "RES 0402"; UniqueID = "\LLBLLSUW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R32B"; Footprint = "RES 0402"; UniqueID = "\ASYPMCWE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R33A"; Footprint = "RES 0402"; UniqueID = "\XHYTFLVD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "31.6k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R33B"; Footprint = "RES 0402"; UniqueID = "\BDHWHGYU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "31.6k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R34A"; Footprint = "RES 0402"; UniqueID = "\QAJESAHW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R34B"; Footprint = "RES 0402"; UniqueID = "\PMPHTJPI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R35A"; Footprint = "RES 0402"; UniqueID = "\XXXXSNYG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "274k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R35B"; Footprint = "RES 0402"; UniqueID = "\PIUBIDSO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "274k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R36A"; Footprint = "RES 0402"; UniqueID = "\SQYYQBPK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "133k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R36B"; Footprint = "RES 0402"; UniqueID = "\RMQRLVIM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "133k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R37A"; Footprint = "RES 0402"; UniqueID = "\IMATHOXN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "47k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R37B"; Footprint = "RES 0402"; UniqueID = "\RIQCRCWO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "47k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R38A"; Footprint = "RES 0402"; UniqueID = "\OXEXSNOQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "39k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R38B"; Footprint = "RES 0402"; UniqueID = "\CTTOSNHB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "39k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R39A"; Footprint = "RES 0402"; UniqueID = "\OVNHNQEX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R39B"; Footprint = "RES 0402"; UniqueID = "\FJVWELHG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R40A"; Footprint = "RES 0402"; UniqueID = "\FOTEKEPH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R40B"; Footprint = "RES 0402"; UniqueID = "\KGARXFAP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R41A"; Footprint = "RES 0402"; UniqueID = "\KOXHSIQC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R42A"; Footprint = "RES 0402"; UniqueID = "\OECPCXOT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "3.65k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Y1A"; Footprint = "MuRata CSTN"; UniqueID = "\NWGNIHIB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "8MHz"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Y1B"; Footprint = "MuRata CSTN"; UniqueID = "\KYCNHDQX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "8MHz"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1"; Footprint = "SOD-323/SC76"; UniqueID = "\HCDMWHNA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "If"; Value = "200mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vrrm"; Value = "13.7"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2"; Footprint = "SOD-323/SC76"; UniqueID = "\PYVKXWGK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "If"; Value = "200mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vrrm"; Value = "13.7"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D3"; Footprint = "SOD-323/SC76"; UniqueID = "\GJBLUIXK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "If"; Value = "200mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vrrm"; Value = "13.7"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D3A"; Footprint = "SOD-323/SC76"; UniqueID = "\IUNROYLM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "If"; Value = "200mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vrrm"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D3B"; Footprint = "SOD-323/SC76"; UniqueID = "\AMCSYJOO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "If"; Value = "200mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vrrm"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D4"; Footprint = "SOD-323/SC76"; UniqueID = "\UULNWKGM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "If"; Value = "200mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vrrm"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1A"; Footprint = "SDE0805A"; UniqueID = "\PLECQKDU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Isat"; Value = "400mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "330uH"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1B"; Footprint = "SDE0805A"; UniqueID = "\JRQAKODP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Isat"; Value = "400mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "330uH"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1"; Footprint = "CAP 0402"; UniqueID = "\DUNTAEIG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1A"; Footprint = "CAP 0402"; UniqueID = "\QAHFRFNX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "18pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1B"; Footprint = "CAP 0402"; UniqueID = "\MUVGBWYE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "18pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2"; Footprint = "CAP 0402"; UniqueID = "\UAUCBHQJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2A"; Footprint = "CAP 0402"; UniqueID = "\FUXMEGPV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "18pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2B"; Footprint = "CAP 0402"; UniqueID = "\BFXTJAQU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "18pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3A"; Footprint = "CAP 0402"; UniqueID = "\UNEYOUAC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "25"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3B"; Footprint = "CAP 0402"; UniqueID = "\DWJFEHRL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "25"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4A"; Footprint = "CAP 0402"; UniqueID = "\LNTWNLRQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4B"; Footprint = "CAP 0402"; UniqueID = "\KVFQDQNS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5A"; Footprint = "CAP 0402"; UniqueID = "\YIMMYMQF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5B"; Footprint = "CAP 0402"; UniqueID = "\ECPYTYYI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6A"; Footprint = "CAP 0402"; UniqueID = "\QCNNSVHL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6B"; Footprint = "CAP 0402"; UniqueID = "\VTBFHWKW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7A"; Footprint = "CAP 0402"; UniqueID = "\EPGLVXYO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7B"; Footprint = "CAP 0402"; UniqueID = "\URRDAXPJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8A"; Footprint = "CAP 0402"; UniqueID = "\YJRBFFFU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8B"; Footprint = "CAP 0402"; UniqueID = "\JQIFLBYU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9A"; Footprint = "CAP 0402"; UniqueID = "\LDCSVGJJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9B"; Footprint = "CAP 0402"; UniqueID = "\YBFWVHFF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10A"; Footprint = "CAP 0402"; UniqueID = "\VCYGKKYG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10B"; Footprint = "CAP 0402"; UniqueID = "\UYHQKGLP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11A"; Footprint = "CAP 0402"; UniqueID = "\ACKTXSMD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11B"; Footprint = "CAP 0402"; UniqueID = "\RJSYSPWN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12A"; Footprint = "CAP 0402"; UniqueID = "\YTCTRQJS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12B"; Footprint = "CAP 0402"; UniqueID = "\OSLJVTPW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13A"; Footprint = "CAP 0402"; UniqueID = "\FLRJPGRR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13B"; Footprint = "CAP 0402"; UniqueID = "\OJRKWNTW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14A"; Footprint = "CAP 0402"; UniqueID = "\SXGGQRAY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14B"; Footprint = "CAP 0402"; UniqueID = "\BYBNAROM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15A"; Footprint = "CAP 0402"; UniqueID = "\IEPTCKPU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15B"; Footprint = "CAP 0402"; UniqueID = "\SDGNPTXI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C17A"; Footprint = "CAP 0402"; UniqueID = "\OCFTFBMN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C17B"; Footprint = "CAP 0402"; UniqueID = "\PVVLVPES"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18A"; Footprint = "CAP 0402"; UniqueID = "\NAJIDOGN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18B"; Footprint = "CAP 0402"; UniqueID = "\QTLRDTNG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C19A"; Footprint = "CAP 0603"; UniqueID = "\ORCSANRD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "47nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C19B"; Footprint = "CAP 0603"; UniqueID = "\YHDLXGFI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "47nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C20A"; Footprint = "CAP 1206"; UniqueID = "\TYHQFCSF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C20B"; Footprint = "CAP 1206"; UniqueID = "\MOUNYEQI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C21A"; Footprint = "CAP 0402"; UniqueID = "\FFQQULPI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "25"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C21B"; Footprint = "CAP 0402"; UniqueID = "\LHSDMTCU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "25"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22A"; Footprint = "CAP 0402"; UniqueID = "\SRNPWLTH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22B"; Footprint = "CAP 0402"; UniqueID = "\NVRDKSCX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C23A"; Footprint = "CAP 0402"; UniqueID = "\SLNWOAEH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C23B"; Footprint = "CAP 0402"; UniqueID = "\SDDHFWYB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C30A"; Footprint = "CAP 0402"; UniqueID = "\JCWVEAHU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C30B"; Footprint = "CAP 0402"; UniqueID = "\LCFIQSNH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C33A"; Footprint = "CAP 1206"; UniqueID = "\BJOWTVGW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "25"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C33B"; Footprint = "CAP 1206"; UniqueID = "\UBWAOMQQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "25"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C34A"; Footprint = "CAP 0402"; UniqueID = "\SWAUQGNB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C34B"; Footprint = "CAP 0402"; UniqueID = "\RMYEFCUF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C35A"; Footprint = "CAP 1210"; UniqueID = "\VTUBLAOE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C36A"; Footprint = "CAP 1210"; UniqueID = "\MMVLUMII"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C37A"; Footprint = "CAP 1210"; UniqueID = "\SNKIXFJH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C38A"; Footprint = "CAP 0402"; UniqueID = "\QHMRGEWO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C38B"; Footprint = "CAP 0402"; UniqueID = "\HPFDJUVH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C39"; Footprint = "CAP 7.5mm Bent"; UniqueID = "\RSTIFJDF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "1000uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C40A"; Footprint = "CAP 1206"; UniqueID = "\CSNWLCSR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "25"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C41A"; Footprint = "CAP 0402"; UniqueID = "\EQKXFDLT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "25"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q1A"; Footprint = "VSONP-8"; UniqueID = "\ELRMNVDH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IdsMax_A"; Value = "100A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CSD19531Q5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "QgTyp_nC"; Value = "48"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeArea_mm2"; Value = "30"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeAreaWB_mm2"; Value = "56"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeX_mm"; Value = "6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeY_mm"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeZ_mm"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value2"; Value = "48 nC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VdsMax_V"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vgs_V"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q1B"; Footprint = "VSONP-8"; UniqueID = "\WRKMRDXG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IdsMax_A"; Value = "100A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CSD19531Q5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "QgTyp_nC"; Value = "48"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeArea_mm2"; Value = "30"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeAreaWB_mm2"; Value = "56"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeX_mm"; Value = "6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeY_mm"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeZ_mm"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value2"; Value = "48 nC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VdsMax_V"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vgs_V"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2A"; Footprint = "VSONP-8"; UniqueID = "\CGPPDWRM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IdsMax_A"; Value = "100A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CSD19531Q5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "QgTyp_nC"; Value = "48"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeArea_mm2"; Value = "30"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeAreaWB_mm2"; Value = "56"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeX_mm"; Value = "6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeY_mm"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeZ_mm"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value2"; Value = "48 nC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VdsMax_V"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vgs_V"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2B"; Footprint = "VSONP-8"; UniqueID = "\MFBSTBHU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IdsMax_A"; Value = "100A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CSD19531Q5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "QgTyp_nC"; Value = "48"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeArea_mm2"; Value = "30"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeAreaWB_mm2"; Value = "56"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeX_mm"; Value = "6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeY_mm"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeZ_mm"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value2"; Value = "48 nC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VdsMax_V"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vgs_V"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q3"; Footprint = "VSONP-8"; UniqueID = "\WAGBJBMS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IdsMax_A"; Value = "100A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CSD19531Q5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "QgTyp_nC"; Value = "48"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeArea_mm2"; Value = "30"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeAreaWB_mm2"; Value = "56"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeX_mm"; Value = "6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeY_mm"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeZ_mm"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value2"; Value = "48 nC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VdsMax_V"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vgs_V"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q3A"; Footprint = "VSONP-8"; UniqueID = "\PVLALHHU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IdsMax_A"; Value = "100A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CSD19531Q5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "QgTyp_nC"; Value = "48"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeArea_mm2"; Value = "30"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeAreaWB_mm2"; Value = "56"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeX_mm"; Value = "6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeY_mm"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeZ_mm"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value2"; Value = "48 nC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VdsMax_V"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vgs_V"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q3B"; Footprint = "VSONP-8"; UniqueID = "\EYKKXHFE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IdsMax_A"; Value = "100A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CSD19531Q5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "QgTyp_nC"; Value = "48"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeArea_mm2"; Value = "30"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeAreaWB_mm2"; Value = "56"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeX_mm"; Value = "6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeY_mm"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeZ_mm"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value2"; Value = "48 nC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VdsMax_V"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vgs_V"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q4A"; Footprint = "VSONP-8"; UniqueID = "\KOIVJQBQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IdsMax_A"; Value = "100A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CSD19531Q5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "QgTyp_nC"; Value = "48"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeArea_mm2"; Value = "30"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeAreaWB_mm2"; Value = "56"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeX_mm"; Value = "6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeY_mm"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeZ_mm"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value2"; Value = "48 nC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VdsMax_V"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vgs_V"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q4B"; Footprint = "VSONP-8"; UniqueID = "\WNRPJOYM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IdsMax_A"; Value = "100A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CSD19531Q5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "QgTyp_nC"; Value = "48"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeArea_mm2"; Value = "30"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeAreaWB_mm2"; Value = "56"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeX_mm"; Value = "6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeY_mm"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeZ_mm"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value2"; Value = "48 nC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VdsMax_V"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vgs_V"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q5A"; Footprint = "VSONP-8"; UniqueID = "\IQPFXFRI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IdsMax_A"; Value = "100A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CSD19531Q5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "QgTyp_nC"; Value = "48"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeArea_mm2"; Value = "30"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeAreaWB_mm2"; Value = "56"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeX_mm"; Value = "6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeY_mm"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeZ_mm"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value2"; Value = "48 nC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VdsMax_V"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vgs_V"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q5B"; Footprint = "VSONP-8"; UniqueID = "\PIHDGWGS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IdsMax_A"; Value = "100A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CSD19531Q5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "QgTyp_nC"; Value = "48"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeArea_mm2"; Value = "30"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeAreaWB_mm2"; Value = "56"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeX_mm"; Value = "6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeY_mm"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeZ_mm"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value2"; Value = "48 nC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VdsMax_V"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vgs_V"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q6A"; Footprint = "VSONP-8"; UniqueID = "\HBFQXLOA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IdsMax_A"; Value = "100A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CSD19531Q5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "QgTyp_nC"; Value = "48"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeArea_mm2"; Value = "30"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeAreaWB_mm2"; Value = "56"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeX_mm"; Value = "6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeY_mm"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeZ_mm"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value2"; Value = "48 nC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VdsMax_V"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vgs_V"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q6B"; Footprint = "VSONP-8"; UniqueID = "\BNXRXQHF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IdsMax_A"; Value = "100A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CSD19531Q5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "QgTyp_nC"; Value = "48"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeArea_mm2"; Value = "30"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeAreaWB_mm2"; Value = "56"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeX_mm"; Value = "6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeY_mm"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeZ_mm"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value2"; Value = "48 nC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VdsMax_V"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vgs_V"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=U1(SOT-23-6)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C1A-2
+Added Pin To Net: NetName=GND Pin=C1B-2
+Added Pin To Net: NetName=GND Pin=C2A-2
+Added Pin To Net: NetName=GND Pin=C2B-2
+Added Pin To Net: NetName=NRST Pin=C3A-1
+Added Pin To Net: NetName=GND Pin=C3A-2
+Added Pin To Net: NetName=NRST Pin=C3B-1
+Added Pin To Net: NetName=GND Pin=C3B-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C4A-1
+Added Pin To Net: NetName=GND Pin=C4A-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C4B-1
+Added Pin To Net: NetName=GND Pin=C4B-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C5A-1
+Added Pin To Net: NetName=GND Pin=C5A-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C5B-1
+Added Pin To Net: NetName=GND Pin=C5B-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C6A-1
+Added Pin To Net: NetName=GND Pin=C6A-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C6B-1
+Added Pin To Net: NetName=GND Pin=C6B-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C7A-1
+Added Pin To Net: NetName=GND Pin=C7A-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C7B-1
+Added Pin To Net: NetName=GND Pin=C7B-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C8A-1
+Added Pin To Net: NetName=GND Pin=C8A-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C8B-1
+Added Pin To Net: NetName=GND Pin=C8B-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C9A-1
+Added Pin To Net: NetName=MA_AGND Pin=C9A-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C9B-1
+Added Pin To Net: NetName=MB_AGND Pin=C9B-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C10A-1
+Added Pin To Net: NetName=GND Pin=C10A-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C10B-1
+Added Pin To Net: NetName=GND Pin=C10B-2
+Added Pin To Net: NetName=GND Pin=C11A-2
+Added Pin To Net: NetName=GND Pin=C11B-2
+Added Pin To Net: NetName=GND Pin=C12A-1
+Added Pin To Net: NetName=MA_HALL_3 Pin=C12A-2
+Added Pin To Net: NetName=GND Pin=C12B-1
+Added Pin To Net: NetName=MB_HALL_3 Pin=C12B-2
+Added Pin To Net: NetName=GND Pin=C13A-1
+Added Pin To Net: NetName=MA_HALL_2 Pin=C13A-2
+Added Pin To Net: NetName=GND Pin=C13B-1
+Added Pin To Net: NetName=MB_HALL_2 Pin=C13B-2
+Added Pin To Net: NetName=GND Pin=C14A-1
+Added Pin To Net: NetName=MA_HALL_1 Pin=C14A-2
+Added Pin To Net: NetName=GND Pin=C14B-1
+Added Pin To Net: NetName=MB_HALL_1 Pin=C14B-2
+Added Pin To Net: NetName=MA_PA_AGND_F Pin=C15A-1
+Added Pin To Net: NetName=MA_PA_SOURCE_F Pin=C15A-2
+Added Pin To Net: NetName=MB_PA_AGND_F Pin=C15B-1
+Added Pin To Net: NetName=MB_PA_SOURCE_F Pin=C15B-2
+Added Pin To Net: NetName=MA_PC_AGND_F Pin=C17A-1
+Added Pin To Net: NetName=MA_PC_SOURCE_F Pin=C17A-2
+Added Pin To Net: NetName=MB_PC_AGND_F Pin=C17B-1
+Added Pin To Net: NetName=MB_PC_SOURCE_F Pin=C17B-2
+Added Pin To Net: NetName=GND Pin=C18A-2
+Added Pin To Net: NetName=GND Pin=C18B-2
+Added Pin To Net: NetName=V_SUPPLY Pin=C20A-1
+Added Pin To Net: NetName=V_SUPPLY Pin=C20B-1
+Added Pin To Net: NetName=GND Pin=C22A-1
+Added Pin To Net: NetName=GND Pin=C22B-1
+Added Pin To Net: NetName=GND Pin=C23A-1
+Added Pin To Net: NetName=MA_DVDD Pin=C23A-2
+Added Pin To Net: NetName=GND Pin=C23B-1
+Added Pin To Net: NetName=MB_DVDD Pin=C23B-2
+Added Pin To Net: NetName=GND Pin=C30A-2
+Added Pin To Net: NetName=GND Pin=C30B-2
+Added Pin To Net: NetName=VCC_12V Pin=C33A-1
+Added Pin To Net: NetName=GND Pin=C33A-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C33B-1
+Added Pin To Net: NetName=GND Pin=C33B-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C34A-1
+Added Pin To Net: NetName=MA_AGND Pin=C34A-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C34B-1
+Added Pin To Net: NetName=MB_AGND Pin=C34B-2
+Added Pin To Net: NetName=GND Pin=C35A-1
+Added Pin To Net: NetName=V_SUPPLY Pin=C35A-2
+Added Pin To Net: NetName=GND Pin=C36A-1
+Added Pin To Net: NetName=V_SUPPLY Pin=C36A-2
+Added Pin To Net: NetName=GND Pin=C37A-1
+Added Pin To Net: NetName=V_SUPPLY Pin=C37A-2
+Added Pin To Net: NetName=VCC_12V Pin=C38A-1
+Added Pin To Net: NetName=GND Pin=C38A-2
+Added Pin To Net: NetName=VCC_12V Pin=C38B-1
+Added Pin To Net: NetName=GND Pin=C38B-2
+Added Pin To Net: NetName=GND Pin=C39-1
+Added Pin To Net: NetName=V_CHG Pin=C39-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C40A-1
+Added Pin To Net: NetName=GND Pin=C40A-2
+Added Pin To Net: NetName=GND Pin=D1A-2
+Added Pin To Net: NetName=GND Pin=D1B-2
+Added Pin To Net: NetName=GND Pin=D3A-1
+Added Pin To Net: NetName=GND Pin=D3B-1
+Added Pin To Net: NetName=GND Pin=J10-1
+Added Pin To Net: NetName=BOOT0 Pin=J10-2
+Added Pin To Net: NetName=NRST Pin=J10-3
+Added Pin To Net: NetName=MB_SCK_ADC_EXT Pin=J10-4
+Added Pin To Net: NetName=MB_MISO_ADC_EXT2 Pin=J10-5
+Added Pin To Net: NetName=MB_TX Pin=J10-6
+Added Pin To Net: NetName=MB_RX Pin=J10-7
+Added Pin To Net: NetName=MB_USB_DP Pin=J10-8
+Added Pin To Net: NetName=MB_USB_DM Pin=J10-9
+Added Pin To Net: NetName=VCC_3V3 Pin=J10-10
+Added Pin To Net: NetName=DISABLE_GATES Pin=J10-11
+Added Pin To Net: NetName=VCC_12V Pin=J10-12
+Added Pin To Net: NetName=MB_SWDIO Pin=J10-13
+Added Pin To Net: NetName=MB_SWDCLK Pin=J10-14
+Added Pin To Net: NetName=MA_SWDIO Pin=J11-1
+Added Pin To Net: NetName=MA_SWDCLK Pin=J11-2
+Added Pin To Net: NetName=MA_SDA Pin=J11-3
+Added Pin To Net: NetName=MA_SCK_ADC_EXT Pin=J11-4
+Added Pin To Net: NetName=MA_MISO_ADC_EXT2 Pin=J11-5
+Added Pin To Net: NetName=MA_SCL Pin=J11-6
+Added Pin To Net: NetName=MA_USB_DP Pin=J11-7
+Added Pin To Net: NetName=MA_USB_DM Pin=J11-8
+Added Pin To Net: NetName=MA_TX Pin=J11-9
+Added Pin To Net: NetName=MA_RX Pin=J11-10
+Added Pin To Net: NetName=VCC_12V_SD Pin=J11-11
+Added Pin To Net: NetName=MA_PC4 Pin=J11-12
+Added Pin To Net: NetName=MA_PC5 Pin=J11-13
+Added Pin To Net: NetName=GND Pin=J11-14
+Added Pin To Net: NetName=GND Pin=J12-1
+Added Pin To Net: NetName=GND Pin=J12-2
+Added Pin To Net: NetName=GND Pin=J12-3
+Added Pin To Net: NetName=GND Pin=J12-4
+Added Pin To Net: NetName=V_CHG Pin=J12-5
+Added Pin To Net: NetName=V_CHG Pin=J12-6
+Added Pin To Net: NetName=V_CHG Pin=J12-7
+Added Pin To Net: NetName=V_CHG Pin=J12-8
+Added Pin To Net: NetName=MA_ESTOP Pin=J12-13
+Added Pin To Net: NetName=MB_ESTOP Pin=J12-14
+Added Pin To Net: NetName=MA_PHASE_A Pin=JAA-1
+Added Pin To Net: NetName=MA_PHASE_A Pin=JAA-1
+Added Pin To Net: NetName=MA_PHASE_A Pin=JAA-1
+Added Pin To Net: NetName=MA_PHASE_A Pin=JAA-1
+Added Pin To Net: NetName=MB_PHASE_A Pin=JAB-1
+Added Pin To Net: NetName=MB_PHASE_A Pin=JAB-1
+Added Pin To Net: NetName=MB_PHASE_A Pin=JAB-1
+Added Pin To Net: NetName=MB_PHASE_A Pin=JAB-1
+Added Pin To Net: NetName=GND Pin=JB-1
+Added Pin To Net: NetName=V_SUPPLY Pin=JB-2
+Added Pin To Net: NetName=MA_PHASE_B Pin=JBA-1
+Added Pin To Net: NetName=MA_PHASE_B Pin=JBA-1
+Added Pin To Net: NetName=MA_PHASE_B Pin=JBA-1
+Added Pin To Net: NetName=MA_PHASE_B Pin=JBA-1
+Added Pin To Net: NetName=MB_PHASE_B Pin=JBB-1
+Added Pin To Net: NetName=MB_PHASE_B Pin=JBB-1
+Added Pin To Net: NetName=MB_PHASE_B Pin=JBB-1
+Added Pin To Net: NetName=MB_PHASE_B Pin=JBB-1
+Added Pin To Net: NetName=MA_PHASE_C Pin=JCA-1
+Added Pin To Net: NetName=MA_PHASE_C Pin=JCA-1
+Added Pin To Net: NetName=MA_PHASE_C Pin=JCA-1
+Added Pin To Net: NetName=MA_PHASE_C Pin=JCA-1
+Added Pin To Net: NetName=MB_PHASE_C Pin=JCB-1
+Added Pin To Net: NetName=MB_PHASE_C Pin=JCB-1
+Added Pin To Net: NetName=MB_PHASE_C Pin=JCB-1
+Added Pin To Net: NetName=MB_PHASE_C Pin=JCB-1
+Added Pin To Net: NetName=GND Pin=JHA-1
+Added Pin To Net: NetName=MA_HALL1_IN Pin=JHA-2
+Added Pin To Net: NetName=MA_HALL2_IN Pin=JHA-3
+Added Pin To Net: NetName=MA_HALL3_IN Pin=JHA-4
+Added Pin To Net: NetName=VCC_3V3 Pin=JHA-5
+Added Pin To Net: NetName=GND Pin=JHB-1
+Added Pin To Net: NetName=MB_HALL1_IN Pin=JHB-2
+Added Pin To Net: NetName=MB_HALL2_IN Pin=JHB-3
+Added Pin To Net: NetName=MB_HALL3_IN Pin=JHB-4
+Added Pin To Net: NetName=VCC_3V3 Pin=JHB-5
+Added Pin To Net: NetName=VCC_3V3 Pin=L1-1
+Added Pin To Net: NetName=VCC_12V Pin=L1A-2
+Added Pin To Net: NetName=VCC_3V3 Pin=L1B-2
+Added Pin To Net: NetName=MA_PHASE_A Pin=Q1A-1
+Added Pin To Net: NetName=MA_PHASE_A Pin=Q1A-2
+Added Pin To Net: NetName=MA_PHASE_A Pin=Q1A-3
+Added Pin To Net: NetName=V_CHG Pin=Q1A-5
+Added Pin To Net: NetName=V_CHG Pin=Q1A-6
+Added Pin To Net: NetName=V_CHG Pin=Q1A-7
+Added Pin To Net: NetName=V_CHG Pin=Q1A-8
+Added Pin To Net: NetName=V_CHG Pin=Q1A-9
+Added Pin To Net: NetName=V_CHG Pin=Q1A-9
+Added Pin To Net: NetName=V_CHG Pin=Q1A-9
+Added Pin To Net: NetName=V_CHG Pin=Q1A-9
+Added Pin To Net: NetName=V_CHG Pin=Q1A-9
+Added Pin To Net: NetName=V_CHG Pin=Q1A-9
+Added Pin To Net: NetName=V_CHG Pin=Q1A-9
+Added Pin To Net: NetName=V_CHG Pin=Q1A-9
+Added Pin To Net: NetName=V_CHG Pin=Q1A-9
+Added Pin To Net: NetName=V_CHG Pin=Q1A-9
+Added Pin To Net: NetName=V_CHG Pin=Q1A-9
+Added Pin To Net: NetName=V_CHG Pin=Q1A-9
+Added Pin To Net: NetName=V_CHG Pin=Q1A-9
+Added Pin To Net: NetName=V_CHG Pin=Q1A-9
+Added Pin To Net: NetName=V_CHG Pin=Q1A-9
+Added Pin To Net: NetName=MB_PHASE_A Pin=Q1B-1
+Added Pin To Net: NetName=MB_PHASE_A Pin=Q1B-2
+Added Pin To Net: NetName=MB_PHASE_A Pin=Q1B-3
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1B-5
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1B-6
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1B-7
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1B-8
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1B-9
+Added Pin To Net: NetName=MA_PA_SOURCE Pin=Q2A-1
+Added Pin To Net: NetName=MA_PA_SOURCE Pin=Q2A-2
+Added Pin To Net: NetName=MA_PA_SOURCE Pin=Q2A-3
+Added Pin To Net: NetName=MA_PHASE_A Pin=Q2A-5
+Added Pin To Net: NetName=MA_PHASE_A Pin=Q2A-6
+Added Pin To Net: NetName=MA_PHASE_A Pin=Q2A-7
+Added Pin To Net: NetName=MA_PHASE_A Pin=Q2A-8
+Added Pin To Net: NetName=MA_PHASE_A Pin=Q2A-9
+Added Pin To Net: NetName=MA_PHASE_A Pin=Q2A-9
+Added Pin To Net: NetName=MA_PHASE_A Pin=Q2A-9
+Added Pin To Net: NetName=MA_PHASE_A Pin=Q2A-9
+Added Pin To Net: NetName=MA_PHASE_A Pin=Q2A-9
+Added Pin To Net: NetName=MA_PHASE_A Pin=Q2A-9
+Added Pin To Net: NetName=MA_PHASE_A Pin=Q2A-9
+Added Pin To Net: NetName=MA_PHASE_A Pin=Q2A-9
+Added Pin To Net: NetName=MA_PHASE_A Pin=Q2A-9
+Added Pin To Net: NetName=MA_PHASE_A Pin=Q2A-9
+Added Pin To Net: NetName=MA_PHASE_A Pin=Q2A-9
+Added Pin To Net: NetName=MA_PHASE_A Pin=Q2A-9
+Added Pin To Net: NetName=MA_PHASE_A Pin=Q2A-9
+Added Pin To Net: NetName=MA_PHASE_A Pin=Q2A-9
+Added Pin To Net: NetName=MA_PHASE_A Pin=Q2A-9
+Added Pin To Net: NetName=MB_PA_SOURCE Pin=Q2B-1
+Added Pin To Net: NetName=MB_PA_SOURCE Pin=Q2B-2
+Added Pin To Net: NetName=MB_PA_SOURCE Pin=Q2B-3
+Added Pin To Net: NetName=MB_PHASE_A Pin=Q2B-5
+Added Pin To Net: NetName=MB_PHASE_A Pin=Q2B-6
+Added Pin To Net: NetName=MB_PHASE_A Pin=Q2B-7
+Added Pin To Net: NetName=MB_PHASE_A Pin=Q2B-8
+Added Pin To Net: NetName=MB_PHASE_A Pin=Q2B-9
+Added Pin To Net: NetName=MB_PHASE_A Pin=Q2B-9
+Added Pin To Net: NetName=MB_PHASE_A Pin=Q2B-9
+Added Pin To Net: NetName=MB_PHASE_A Pin=Q2B-9
+Added Pin To Net: NetName=MB_PHASE_A Pin=Q2B-9
+Added Pin To Net: NetName=MB_PHASE_A Pin=Q2B-9
+Added Pin To Net: NetName=MB_PHASE_A Pin=Q2B-9
+Added Pin To Net: NetName=MB_PHASE_A Pin=Q2B-9
+Added Pin To Net: NetName=MB_PHASE_A Pin=Q2B-9
+Added Pin To Net: NetName=MB_PHASE_A Pin=Q2B-9
+Added Pin To Net: NetName=MB_PHASE_A Pin=Q2B-9
+Added Pin To Net: NetName=MB_PHASE_A Pin=Q2B-9
+Added Pin To Net: NetName=MB_PHASE_A Pin=Q2B-9
+Added Pin To Net: NetName=MB_PHASE_A Pin=Q2B-9
+Added Pin To Net: NetName=MB_PHASE_A Pin=Q2B-9
+Added Pin To Net: NetName=MA_PHASE_B Pin=Q3A-1
+Added Pin To Net: NetName=MA_PHASE_B Pin=Q3A-2
+Added Pin To Net: NetName=MA_PHASE_B Pin=Q3A-3
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-5
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-6
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-7
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-8
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=MB_PHASE_B Pin=Q3B-1
+Added Pin To Net: NetName=MB_PHASE_B Pin=Q3B-2
+Added Pin To Net: NetName=MB_PHASE_B Pin=Q3B-3
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3B-5
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3B-6
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3B-7
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3B-8
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3B-9
+Added Pin To Net: NetName=MA_PB_AGND Pin=Q4A-1
+Added Pin To Net: NetName=MA_PB_AGND Pin=Q4A-2
+Added Pin To Net: NetName=MA_PB_AGND Pin=Q4A-3
+Added Pin To Net: NetName=MA_PHASE_B Pin=Q4A-5
+Added Pin To Net: NetName=MA_PHASE_B Pin=Q4A-6
+Added Pin To Net: NetName=MA_PHASE_B Pin=Q4A-7
+Added Pin To Net: NetName=MA_PHASE_B Pin=Q4A-8
+Added Pin To Net: NetName=MA_PHASE_B Pin=Q4A-9
+Added Pin To Net: NetName=MA_PHASE_B Pin=Q4A-9
+Added Pin To Net: NetName=MA_PHASE_B Pin=Q4A-9
+Added Pin To Net: NetName=MA_PHASE_B Pin=Q4A-9
+Added Pin To Net: NetName=MA_PHASE_B Pin=Q4A-9
+Added Pin To Net: NetName=MA_PHASE_B Pin=Q4A-9
+Added Pin To Net: NetName=MA_PHASE_B Pin=Q4A-9
+Added Pin To Net: NetName=MA_PHASE_B Pin=Q4A-9
+Added Pin To Net: NetName=MA_PHASE_B Pin=Q4A-9
+Added Pin To Net: NetName=MA_PHASE_B Pin=Q4A-9
+Added Pin To Net: NetName=MA_PHASE_B Pin=Q4A-9
+Added Pin To Net: NetName=MA_PHASE_B Pin=Q4A-9
+Added Pin To Net: NetName=MA_PHASE_B Pin=Q4A-9
+Added Pin To Net: NetName=MA_PHASE_B Pin=Q4A-9
+Added Pin To Net: NetName=MA_PHASE_B Pin=Q4A-9
+Added Pin To Net: NetName=MB_PB_AGND Pin=Q4B-1
+Added Pin To Net: NetName=MB_PB_AGND Pin=Q4B-2
+Added Pin To Net: NetName=MB_PB_AGND Pin=Q4B-3
+Added Pin To Net: NetName=MB_PHASE_B Pin=Q4B-5
+Added Pin To Net: NetName=MB_PHASE_B Pin=Q4B-6
+Added Pin To Net: NetName=MB_PHASE_B Pin=Q4B-7
+Added Pin To Net: NetName=MB_PHASE_B Pin=Q4B-8
+Added Pin To Net: NetName=MB_PHASE_B Pin=Q4B-9
+Added Pin To Net: NetName=MB_PHASE_B Pin=Q4B-9
+Added Pin To Net: NetName=MB_PHASE_B Pin=Q4B-9
+Added Pin To Net: NetName=MB_PHASE_B Pin=Q4B-9
+Added Pin To Net: NetName=MB_PHASE_B Pin=Q4B-9
+Added Pin To Net: NetName=MB_PHASE_B Pin=Q4B-9
+Added Pin To Net: NetName=MB_PHASE_B Pin=Q4B-9
+Added Pin To Net: NetName=MB_PHASE_B Pin=Q4B-9
+Added Pin To Net: NetName=MB_PHASE_B Pin=Q4B-9
+Added Pin To Net: NetName=MB_PHASE_B Pin=Q4B-9
+Added Pin To Net: NetName=MB_PHASE_B Pin=Q4B-9
+Added Pin To Net: NetName=MB_PHASE_B Pin=Q4B-9
+Added Pin To Net: NetName=MB_PHASE_B Pin=Q4B-9
+Added Pin To Net: NetName=MB_PHASE_B Pin=Q4B-9
+Added Pin To Net: NetName=MB_PHASE_B Pin=Q4B-9
+Added Pin To Net: NetName=MA_PHASE_C Pin=Q5A-1
+Added Pin To Net: NetName=MA_PHASE_C Pin=Q5A-2
+Added Pin To Net: NetName=MA_PHASE_C Pin=Q5A-3
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-5
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-6
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-7
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-8
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Added Pin To Net: NetName=MB_PHASE_C Pin=Q5B-1
+Added Pin To Net: NetName=MB_PHASE_C Pin=Q5B-2
+Added Pin To Net: NetName=MB_PHASE_C Pin=Q5B-3
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5B-5
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5B-6
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5B-7
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5B-8
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5B-9
+Added Pin To Net: NetName=MA_PC_SOURCE Pin=Q6A-1
+Added Pin To Net: NetName=MA_PC_SOURCE Pin=Q6A-2
+Added Pin To Net: NetName=MA_PC_SOURCE Pin=Q6A-3
+Added Pin To Net: NetName=MA_PHASE_C Pin=Q6A-5
+Added Pin To Net: NetName=MA_PHASE_C Pin=Q6A-6
+Added Pin To Net: NetName=MA_PHASE_C Pin=Q6A-7
+Added Pin To Net: NetName=MA_PHASE_C Pin=Q6A-8
+Added Pin To Net: NetName=MA_PHASE_C Pin=Q6A-9
+Added Pin To Net: NetName=MA_PHASE_C Pin=Q6A-9
+Added Pin To Net: NetName=MA_PHASE_C Pin=Q6A-9
+Added Pin To Net: NetName=MA_PHASE_C Pin=Q6A-9
+Added Pin To Net: NetName=MA_PHASE_C Pin=Q6A-9
+Added Pin To Net: NetName=MA_PHASE_C Pin=Q6A-9
+Added Pin To Net: NetName=MA_PHASE_C Pin=Q6A-9
+Added Pin To Net: NetName=MA_PHASE_C Pin=Q6A-9
+Added Pin To Net: NetName=MA_PHASE_C Pin=Q6A-9
+Added Pin To Net: NetName=MA_PHASE_C Pin=Q6A-9
+Added Pin To Net: NetName=MA_PHASE_C Pin=Q6A-9
+Added Pin To Net: NetName=MA_PHASE_C Pin=Q6A-9
+Added Pin To Net: NetName=MA_PHASE_C Pin=Q6A-9
+Added Pin To Net: NetName=MA_PHASE_C Pin=Q6A-9
+Added Pin To Net: NetName=MA_PHASE_C Pin=Q6A-9
+Added Pin To Net: NetName=MB_PC_SOURCE Pin=Q6B-1
+Added Pin To Net: NetName=MB_PC_SOURCE Pin=Q6B-2
+Added Pin To Net: NetName=MB_PC_SOURCE Pin=Q6B-3
+Added Pin To Net: NetName=MB_PHASE_C Pin=Q6B-5
+Added Pin To Net: NetName=MB_PHASE_C Pin=Q6B-6
+Added Pin To Net: NetName=MB_PHASE_C Pin=Q6B-7
+Added Pin To Net: NetName=MB_PHASE_C Pin=Q6B-8
+Added Pin To Net: NetName=MB_PHASE_C Pin=Q6B-9
+Added Pin To Net: NetName=MB_PHASE_C Pin=Q6B-9
+Added Pin To Net: NetName=MB_PHASE_C Pin=Q6B-9
+Added Pin To Net: NetName=MB_PHASE_C Pin=Q6B-9
+Added Pin To Net: NetName=MB_PHASE_C Pin=Q6B-9
+Added Pin To Net: NetName=MB_PHASE_C Pin=Q6B-9
+Added Pin To Net: NetName=MB_PHASE_C Pin=Q6B-9
+Added Pin To Net: NetName=MB_PHASE_C Pin=Q6B-9
+Added Pin To Net: NetName=MB_PHASE_C Pin=Q6B-9
+Added Pin To Net: NetName=MB_PHASE_C Pin=Q6B-9
+Added Pin To Net: NetName=MB_PHASE_C Pin=Q6B-9
+Added Pin To Net: NetName=MB_PHASE_C Pin=Q6B-9
+Added Pin To Net: NetName=MB_PHASE_C Pin=Q6B-9
+Added Pin To Net: NetName=MB_PHASE_C Pin=Q6B-9
+Added Pin To Net: NetName=MB_PHASE_C Pin=Q6B-9
+Added Pin To Net: NetName=DISABLE_GATES Pin=Q7A-1
+Added Pin To Net: NetName=GND Pin=Q7A-2
+Added Pin To Net: NetName=MA_EN_GATE_R Pin=Q7A-3
+Added Pin To Net: NetName=DISABLE_GATES Pin=Q7B-1
+Added Pin To Net: NetName=GND Pin=Q7B-2
+Added Pin To Net: NetName=MB_EN_GATE_R Pin=Q7B-3
+Added Pin To Net: NetName=MA_PA_HI Pin=R1A-1
+Added Pin To Net: NetName=MB_PA_HI Pin=R1B-1
+Added Pin To Net: NetName=MA_PA_LO Pin=R2A-1
+Added Pin To Net: NetName=MB_PA_LO Pin=R2B-1
+Added Pin To Net: NetName=MA_PB_HI Pin=R3A-1
+Added Pin To Net: NetName=MB_PB_HI Pin=R3B-1
+Added Pin To Net: NetName=MA_PB_LO Pin=R4A-1
+Added Pin To Net: NetName=MB_PB_LO Pin=R4B-1
+Added Pin To Net: NetName=V_CHG_SNS Pin=R5-1
+Added Pin To Net: NetName=V_CHG Pin=R5-2
+Added Pin To Net: NetName=MA_PC_HI Pin=R5A-1
+Added Pin To Net: NetName=MB_PC_HI Pin=R5B-1
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=V_CHG_SNS Pin=R6-2
+Added Pin To Net: NetName=MA_PC_LO Pin=R6A-1
+Added Pin To Net: NetName=MB_PC_LO Pin=R6B-1
+Added Pin To Net: NetName=MA_ESTOP Pin=R7A-1
+Added Pin To Net: NetName=MB_ESTOP Pin=R7B-1
+Added Pin To Net: NetName=MA_ESTOP Pin=R8A-1
+Added Pin To Net: NetName=MB_ESTOP Pin=R8B-1
+Added Pin To Net: NetName=MA_ESTOP Pin=R9A-1
+Added Pin To Net: NetName=MB_ESTOP Pin=R9B-1
+Added Pin To Net: NetName=NTC_M Pin=R10-1
+Added Pin To Net: NetName=VCC_3V3 Pin=R10-2
+Added Pin To Net: NetName=MA_PA_AGND Pin=R10A-1
+Added Pin To Net: NetName=MA_PA_AGND Pin=R10A-1
+Added Pin To Net: NetName=MA_PA_SOURCE Pin=R10A-2
+Added Pin To Net: NetName=MA_PA_SOURCE Pin=R10A-2
+Added Pin To Net: NetName=MB_PA_AGND Pin=R10B-1
+Added Pin To Net: NetName=MB_PA_AGND Pin=R10B-1
+Added Pin To Net: NetName=MB_PA_SOURCE Pin=R10B-2
+Added Pin To Net: NetName=MB_PA_SOURCE Pin=R10B-2
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=NTC_M Pin=R11-2
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=DISABLE_GATES Pin=R12-2
+Added Pin To Net: NetName=MA_PC_SOURCE Pin=R12A-1
+Added Pin To Net: NetName=MA_PC_SOURCE Pin=R12A-1
+Added Pin To Net: NetName=MA_PC_AGND Pin=R12A-2
+Added Pin To Net: NetName=MA_PC_AGND Pin=R12A-2
+Added Pin To Net: NetName=MB_PC_SOURCE Pin=R12B-1
+Added Pin To Net: NetName=MB_PC_SOURCE Pin=R12B-1
+Added Pin To Net: NetName=MB_PC_AGND Pin=R12B-2
+Added Pin To Net: NetName=MB_PC_AGND Pin=R12B-2
+Added Pin To Net: NetName=GND Pin=R13-1
+Added Pin To Net: NetName=BOOT0 Pin=R13-2
+Added Pin To Net: NetName=MA_HALL3_IN Pin=R13A-1
+Added Pin To Net: NetName=VCC_3V3 Pin=R13A-2
+Added Pin To Net: NetName=MB_HALL3_IN Pin=R13B-1
+Added Pin To Net: NetName=VCC_3V3 Pin=R13B-2
+Added Pin To Net: NetName=MA_HALL2_IN Pin=R14A-1
+Added Pin To Net: NetName=VCC_3V3 Pin=R14A-2
+Added Pin To Net: NetName=MB_HALL2_IN Pin=R14B-1
+Added Pin To Net: NetName=VCC_3V3 Pin=R14B-2
+Added Pin To Net: NetName=MA_HALL1_IN Pin=R15A-1
+Added Pin To Net: NetName=VCC_3V3 Pin=R15A-2
+Added Pin To Net: NetName=MB_HALL1_IN Pin=R15B-1
+Added Pin To Net: NetName=VCC_3V3 Pin=R15B-2
+Added Pin To Net: NetName=MA_HALL3_IN Pin=R16A-1
+Added Pin To Net: NetName=MA_HALL_3 Pin=R16A-2
+Added Pin To Net: NetName=MB_HALL3_IN Pin=R16B-1
+Added Pin To Net: NetName=MB_HALL_3 Pin=R16B-2
+Added Pin To Net: NetName=MA_HALL2_IN Pin=R17A-1
+Added Pin To Net: NetName=MA_HALL_2 Pin=R17A-2
+Added Pin To Net: NetName=MB_HALL2_IN Pin=R17B-1
+Added Pin To Net: NetName=MB_HALL_2 Pin=R17B-2
+Added Pin To Net: NetName=MA_HALL1_IN Pin=R18A-1
+Added Pin To Net: NetName=MA_HALL_1 Pin=R18A-2
+Added Pin To Net: NetName=MB_HALL1_IN Pin=R18B-1
+Added Pin To Net: NetName=MB_HALL_1 Pin=R18B-2
+Added Pin To Net: NetName=MA_VOLTAGE_C Pin=R19A-1
+Added Pin To Net: NetName=MA_PHASE_C Pin=R19A-2
+Added Pin To Net: NetName=MB_VOLTAGE_C Pin=R19B-1
+Added Pin To Net: NetName=MB_PHASE_C Pin=R19B-2
+Added Pin To Net: NetName=GND Pin=R20A-1
+Added Pin To Net: NetName=MA_VOLTAGE_C Pin=R20A-2
+Added Pin To Net: NetName=GND Pin=R20B-1
+Added Pin To Net: NetName=MB_VOLTAGE_C Pin=R20B-2
+Added Pin To Net: NetName=MA_VOLTAGE_B Pin=R21A-1
+Added Pin To Net: NetName=MA_PHASE_B Pin=R21A-2
+Added Pin To Net: NetName=MB_VOLTAGE_B Pin=R21B-1
+Added Pin To Net: NetName=MB_PHASE_B Pin=R21B-2
+Added Pin To Net: NetName=GND Pin=R22A-1
+Added Pin To Net: NetName=MA_VOLTAGE_B Pin=R22A-2
+Added Pin To Net: NetName=GND Pin=R22B-1
+Added Pin To Net: NetName=MB_VOLTAGE_B Pin=R22B-2
+Added Pin To Net: NetName=MA_VOLTAGE_A Pin=R23A-1
+Added Pin To Net: NetName=MA_PHASE_A Pin=R23A-2
+Added Pin To Net: NetName=MB_VOLTAGE_A Pin=R23B-1
+Added Pin To Net: NetName=MB_PHASE_A Pin=R23B-2
+Added Pin To Net: NetName=GND Pin=R24A-1
+Added Pin To Net: NetName=MA_VOLTAGE_A Pin=R24A-2
+Added Pin To Net: NetName=GND Pin=R24B-1
+Added Pin To Net: NetName=MB_VOLTAGE_A Pin=R24B-2
+Added Pin To Net: NetName=MA_PA_SOURCE_F Pin=R25A-1
+Added Pin To Net: NetName=MA_PA_SOURCE Pin=R25A-2
+Added Pin To Net: NetName=MB_PA_SOURCE_F Pin=R25B-1
+Added Pin To Net: NetName=MB_PA_SOURCE Pin=R25B-2
+Added Pin To Net: NetName=MA_PA_AGND_F Pin=R26A-1
+Added Pin To Net: NetName=MA_PA_AGND Pin=R26A-2
+Added Pin To Net: NetName=MB_PA_AGND_F Pin=R26B-1
+Added Pin To Net: NetName=MB_PA_AGND Pin=R26B-2
+Added Pin To Net: NetName=MA_PC_SOURCE_F Pin=R29A-1
+Added Pin To Net: NetName=MA_PC_SOURCE Pin=R29A-2
+Added Pin To Net: NetName=MB_PC_SOURCE_F Pin=R29B-1
+Added Pin To Net: NetName=MB_PC_SOURCE Pin=R29B-2
+Added Pin To Net: NetName=MA_PC_AGND_F Pin=R30A-1
+Added Pin To Net: NetName=MA_PC_AGND Pin=R30A-2
+Added Pin To Net: NetName=MB_PC_AGND_F Pin=R30B-1
+Added Pin To Net: NetName=MB_PC_AGND Pin=R30B-2
+Added Pin To Net: NetName=MA_LED_GREEN Pin=R32A-2
+Added Pin To Net: NetName=MB_LED_GREEN Pin=R32B-2
+Added Pin To Net: NetName=GND Pin=R33A-1
+Added Pin To Net: NetName=GND Pin=R33B-1
+Added Pin To Net: NetName=VCC_12V Pin=R34A-2
+Added Pin To Net: NetName=VCC_3V3 Pin=R34B-2
+Added Pin To Net: NetName=VCC_12V_SD Pin=R35A-1
+Added Pin To Net: NetName=V_SUPPLY Pin=R35A-2
+Added Pin To Net: NetName=VCC_NV_SD Pin=R35B-1
+Added Pin To Net: NetName=V_SUPPLY Pin=R35B-2
+Added Pin To Net: NetName=GND Pin=R36A-2
+Added Pin To Net: NetName=GND Pin=R36B-2
+Added Pin To Net: NetName=MA_AGND Pin=R37A-2
+Added Pin To Net: NetName=MB_AGND Pin=R37B-2
+Added Pin To Net: NetName=MA_AN_IN Pin=R38A-1
+Added Pin To Net: NetName=V_SUPPLY Pin=R38A-2
+Added Pin To Net: NetName=MB_AN_IN Pin=R38B-1
+Added Pin To Net: NetName=V_SUPPLY Pin=R38B-2
+Added Pin To Net: NetName=MA_EN_GATE_R Pin=R39A-1
+Added Pin To Net: NetName=MA_EN_GATE Pin=R39A-2
+Added Pin To Net: NetName=MB_EN_GATE_R Pin=R39B-1
+Added Pin To Net: NetName=MB_EN_GATE Pin=R39B-2
+Added Pin To Net: NetName=GND Pin=R40A-1
+Added Pin To Net: NetName=MA_AN_IN Pin=R40A-2
+Added Pin To Net: NetName=GND Pin=R40B-1
+Added Pin To Net: NetName=MB_AN_IN Pin=R40B-2
+Added Pin To Net: NetName=GND Pin=R41A-1
+Added Pin To Net: NetName=VCC_3V3 Pin=R41A-2
+Added Pin To Net: NetName=VCC_3V3 Pin=R42A-1
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=VCC_12V Pin=U1-3
+Added Pin To Net: NetName=VCC_12V Pin=U1-5
+Added Pin To Net: NetName=VCC_3V3 Pin=U1A-1
+Added Pin To Net: NetName=NRST Pin=U1A-7
+Added Pin To Net: NetName=V_CHG_SNS Pin=U1A-9
+Added Pin To Net: NetName=MA_AN_IN Pin=U1A-10
+Added Pin To Net: NetName=NTC_M Pin=U1A-11
+Added Pin To Net: NetName=MA_AGND Pin=U1A-12
+Added Pin To Net: NetName=VCC_3V3 Pin=U1A-13
+Added Pin To Net: NetName=MA_VOLTAGE_A Pin=U1A-14
+Added Pin To Net: NetName=MA_VOLTAGE_B Pin=U1A-15
+Added Pin To Net: NetName=MA_VOLTAGE_C Pin=U1A-16
+Added Pin To Net: NetName=MA_LED_GREEN Pin=U1A-17
+Added Pin To Net: NetName=GND Pin=U1A-18
+Added Pin To Net: NetName=VCC_3V3 Pin=U1A-19
+Added Pin To Net: NetName=MA_SDA Pin=U1A-20
+Added Pin To Net: NetName=MA_SCK_ADC_EXT Pin=U1A-21
+Added Pin To Net: NetName=MA_MISO_ADC_EXT2 Pin=U1A-22
+Added Pin To Net: NetName=MA_SCL Pin=U1A-23
+Added Pin To Net: NetName=MA_PC4 Pin=U1A-24
+Added Pin To Net: NetName=MA_PC5 Pin=U1A-25
+Added Pin To Net: NetName=MA_CURRENT_A Pin=U1A-26
+Added Pin To Net: NetName=MA_CURRENT_C Pin=U1A-27
+Added Pin To Net: NetName=GND Pin=U1A-28
+Added Pin To Net: NetName=MA_TX Pin=U1A-29
+Added Pin To Net: NetName=MA_RX Pin=U1A-30
+Added Pin To Net: NetName=VCC_3V3 Pin=U1A-32
+Added Pin To Net: NetName=MA_L1 Pin=U1A-34
+Added Pin To Net: NetName=MA_L2 Pin=U1A-35
+Added Pin To Net: NetName=MA_L3 Pin=U1A-36
+Added Pin To Net: NetName=MA_HALL_1 Pin=U1A-37
+Added Pin To Net: NetName=MA_HALL_2 Pin=U1A-38
+Added Pin To Net: NetName=MA_HALL_3 Pin=U1A-39
+Added Pin To Net: NetName=MA_H1 Pin=U1A-41
+Added Pin To Net: NetName=MA_H2 Pin=U1A-42
+Added Pin To Net: NetName=MA_H3 Pin=U1A-43
+Added Pin To Net: NetName=MA_USB_DM Pin=U1A-44
+Added Pin To Net: NetName=MA_USB_DP Pin=U1A-45
+Added Pin To Net: NetName=MA_SWDIO Pin=U1A-46
+Added Pin To Net: NetName=VCC_3V3 Pin=U1A-48
+Added Pin To Net: NetName=MA_SWDCLK Pin=U1A-49
+Added Pin To Net: NetName=MA_NFAULT Pin=U1A-53
+Added Pin To Net: NetName=MA_EN_GATE Pin=U1A-57
+Added Pin To Net: NetName=CHARGEPUMP Pin=U1A-58
+Added Pin To Net: NetName=BUSFET Pin=U1A-59
+Added Pin To Net: NetName=BOOT0 Pin=U1A-60
+Added Pin To Net: NetName=CAN_RX Pin=U1A-61
+Added Pin To Net: NetName=CAN_TX Pin=U1A-62
+Added Pin To Net: NetName=GND Pin=U1A-63
+Added Pin To Net: NetName=VCC_3V3 Pin=U1A-64
+Added Pin To Net: NetName=VCC_3V3 Pin=U1B-1
+Added Pin To Net: NetName=NRST Pin=U1B-7
+Added Pin To Net: NetName=MB_AN_IN Pin=U1B-10
+Added Pin To Net: NetName=MB_AGND Pin=U1B-12
+Added Pin To Net: NetName=VCC_3V3 Pin=U1B-13
+Added Pin To Net: NetName=MB_VOLTAGE_A Pin=U1B-14
+Added Pin To Net: NetName=MB_VOLTAGE_B Pin=U1B-15
+Added Pin To Net: NetName=MB_VOLTAGE_C Pin=U1B-16
+Added Pin To Net: NetName=MB_LED_GREEN Pin=U1B-17
+Added Pin To Net: NetName=GND Pin=U1B-18
+Added Pin To Net: NetName=VCC_3V3 Pin=U1B-19
+Added Pin To Net: NetName=MB_SCK_ADC_EXT Pin=U1B-21
+Added Pin To Net: NetName=MB_MISO_ADC_EXT2 Pin=U1B-22
+Added Pin To Net: NetName=MB_CURRENT_A Pin=U1B-26
+Added Pin To Net: NetName=MB_CURRENT_C Pin=U1B-27
+Added Pin To Net: NetName=GND Pin=U1B-28
+Added Pin To Net: NetName=MB_TX Pin=U1B-29
+Added Pin To Net: NetName=MB_RX Pin=U1B-30
+Added Pin To Net: NetName=VCC_3V3 Pin=U1B-32
+Added Pin To Net: NetName=MB_L1 Pin=U1B-34
+Added Pin To Net: NetName=MB_L2 Pin=U1B-35
+Added Pin To Net: NetName=MB_L3 Pin=U1B-36
+Added Pin To Net: NetName=MB_HALL_1 Pin=U1B-37
+Added Pin To Net: NetName=MB_HALL_2 Pin=U1B-38
+Added Pin To Net: NetName=MB_HALL_3 Pin=U1B-39
+Added Pin To Net: NetName=MB_H1 Pin=U1B-41
+Added Pin To Net: NetName=MB_H2 Pin=U1B-42
+Added Pin To Net: NetName=MB_H3 Pin=U1B-43
+Added Pin To Net: NetName=MB_USB_DM Pin=U1B-44
+Added Pin To Net: NetName=MB_USB_DP Pin=U1B-45
+Added Pin To Net: NetName=MB_SWDIO Pin=U1B-46
+Added Pin To Net: NetName=VCC_3V3 Pin=U1B-48
+Added Pin To Net: NetName=MB_SWDCLK Pin=U1B-49
+Added Pin To Net: NetName=MB_NFAULT Pin=U1B-53
+Added Pin To Net: NetName=MB_EN_GATE Pin=U1B-57
+Added Pin To Net: NetName=BOOT0 Pin=U1B-60
+Added Pin To Net: NetName=CAN_RX Pin=U1B-61
+Added Pin To Net: NetName=CAN_TX Pin=U1B-62
+Added Pin To Net: NetName=GND Pin=U1B-63
+Added Pin To Net: NetName=VCC_3V3 Pin=U1B-64
+Added Pin To Net: NetName=GND Pin=U3A-0
+Added Pin To Net: NetName=GND Pin=U3A-1
+Added Pin To Net: NetName=VCC_12V Pin=U3A-5
+Added Pin To Net: NetName=V_SUPPLY Pin=U3A-6
+Added Pin To Net: NetName=MA_PA_HI Pin=U3A-8
+Added Pin To Net: NetName=MA_PHASE_A Pin=U3A-9
+Added Pin To Net: NetName=MA_PA_LO Pin=U3A-10
+Added Pin To Net: NetName=MA_PA_SOURCE_F Pin=U3A-11
+Added Pin To Net: NetName=MA_PA_AGND_F Pin=U3A-12
+Added Pin To Net: NetName=MA_PB_AGND_F Pin=U3A-13
+Added Pin To Net: NetName=MA_PB_SOURCE_F Pin=U3A-14
+Added Pin To Net: NetName=MA_PB_LO Pin=U3A-15
+Added Pin To Net: NetName=MA_PHASE_B Pin=U3A-16
+Added Pin To Net: NetName=MA_PB_HI Pin=U3A-17
+Added Pin To Net: NetName=MA_PC_HI Pin=U3A-18
+Added Pin To Net: NetName=MA_PHASE_C Pin=U3A-19
+Added Pin To Net: NetName=MA_PC_LO Pin=U3A-20
+Added Pin To Net: NetName=MA_PC_SOURCE_F Pin=U3A-21
+Added Pin To Net: NetName=MA_PC_AGND_F Pin=U3A-22
+Added Pin To Net: NetName=MA_CURRENT_C Pin=U3A-23
+Added Pin To Net: NetName=MA_CURRENT_B Pin=U3A-24
+Added Pin To Net: NetName=MA_CURRENT_A Pin=U3A-25
+Added Pin To Net: NetName=VCC_3V3 Pin=U3A-26
+Added Pin To Net: NetName=MA_AGND Pin=U3A-27
+Added Pin To Net: NetName=MA_NFAULT Pin=U3A-28
+Added Pin To Net: NetName=MA_DVDD Pin=U3A-29
+Added Pin To Net: NetName=MA_DVDD Pin=U3A-30
+Added Pin To Net: NetName=MA_DVDD Pin=U3A-31
+Added Pin To Net: NetName=MA_EN_GATE_R Pin=U3A-33
+Added Pin To Net: NetName=MA_H1 Pin=U3A-34
+Added Pin To Net: NetName=MA_L1 Pin=U3A-35
+Added Pin To Net: NetName=MA_H2 Pin=U3A-36
+Added Pin To Net: NetName=MA_L2 Pin=U3A-37
+Added Pin To Net: NetName=MA_H3 Pin=U3A-38
+Added Pin To Net: NetName=MA_L3 Pin=U3A-39
+Added Pin To Net: NetName=MA_DVDD Pin=U3A-40
+Added Pin To Net: NetName=GND Pin=U3A-41
+Added Pin To Net: NetName=V_SUPPLY Pin=U3A-43
+Added Pin To Net: NetName=VCC_12V_SD Pin=U3A-47
+Added Pin To Net: NetName=GND Pin=U3B-0
+Added Pin To Net: NetName=GND Pin=U3B-1
+Added Pin To Net: NetName=VCC_12V Pin=U3B-5
+Added Pin To Net: NetName=V_SUPPLY Pin=U3B-6
+Added Pin To Net: NetName=MB_PA_HI Pin=U3B-8
+Added Pin To Net: NetName=MB_PHASE_A Pin=U3B-9
+Added Pin To Net: NetName=MB_PA_LO Pin=U3B-10
+Added Pin To Net: NetName=MB_PA_SOURCE_F Pin=U3B-11
+Added Pin To Net: NetName=MB_PA_AGND_F Pin=U3B-12
+Added Pin To Net: NetName=MB_PB_AGND_F Pin=U3B-13
+Added Pin To Net: NetName=MB_PB_SOURCE_F Pin=U3B-14
+Added Pin To Net: NetName=MB_PB_LO Pin=U3B-15
+Added Pin To Net: NetName=MB_PHASE_B Pin=U3B-16
+Added Pin To Net: NetName=MB_PB_HI Pin=U3B-17
+Added Pin To Net: NetName=MB_PC_HI Pin=U3B-18
+Added Pin To Net: NetName=MB_PHASE_C Pin=U3B-19
+Added Pin To Net: NetName=MB_PC_LO Pin=U3B-20
+Added Pin To Net: NetName=MB_PC_SOURCE_F Pin=U3B-21
+Added Pin To Net: NetName=MB_PC_AGND_F Pin=U3B-22
+Added Pin To Net: NetName=MB_CURRENT_C Pin=U3B-23
+Added Pin To Net: NetName=MB_CURRENT_B Pin=U3B-24
+Added Pin To Net: NetName=MB_CURRENT_A Pin=U3B-25
+Added Pin To Net: NetName=VCC_3V3 Pin=U3B-26
+Added Pin To Net: NetName=MB_AGND Pin=U3B-27
+Added Pin To Net: NetName=MB_NFAULT Pin=U3B-28
+Added Pin To Net: NetName=MB_DVDD Pin=U3B-29
+Added Pin To Net: NetName=MB_DVDD Pin=U3B-30
+Added Pin To Net: NetName=MB_DVDD Pin=U3B-31
+Added Pin To Net: NetName=MB_EN_GATE_R Pin=U3B-33
+Added Pin To Net: NetName=MB_H1 Pin=U3B-34
+Added Pin To Net: NetName=MB_L1 Pin=U3B-35
+Added Pin To Net: NetName=MB_H2 Pin=U3B-36
+Added Pin To Net: NetName=MB_L2 Pin=U3B-37
+Added Pin To Net: NetName=MB_H3 Pin=U3B-38
+Added Pin To Net: NetName=MB_L3 Pin=U3B-39
+Added Pin To Net: NetName=MB_DVDD Pin=U3B-40
+Added Pin To Net: NetName=GND Pin=U3B-41
+Added Pin To Net: NetName=V_SUPPLY Pin=U3B-43
+Added Pin To Net: NetName=VCC_NV_SD Pin=U3B-47
+Added Pin To Net: NetName=GND Pin=Y1A-2
+Added Pin To Net: NetName=GND Pin=Y1B-2
+Added Class: Name=VESC_JLC
+Added Room: Name=VESC_JLC
+Added Room: Name=Vesc_Simple
