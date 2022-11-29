@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=Vesc Member=Y?
+Change Net Name : Old Net Name=NetR35A_1 New Net Name=VCC_3V3_SD
+Change Net Name : Old Net Name=NetR35B_1 New Net Name=VCC_12V_SD

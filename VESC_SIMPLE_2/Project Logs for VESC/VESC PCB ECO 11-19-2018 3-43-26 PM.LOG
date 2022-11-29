@@ -1,0 +1,158 @@
+Removed Pin From Net: NetName=PHASE_A Pin=Q1-1
+Removed Pin From Net: NetName=PHASE_A Pin=Q1-2
+Removed Pin From Net: NetName=PHASE_A Pin=Q1-3
+Removed Pin From Net: NetName=V_SUPPLY Pin=Q1-5
+Removed Pin From Net: NetName=V_SUPPLY Pin=Q1-6
+Removed Pin From Net: NetName=V_SUPPLY Pin=Q1-7
+Removed Pin From Net: NetName=V_SUPPLY Pin=Q1-8
+Removed Pin From Net: NetName=V_SUPPLY Pin=Q1-9
+Removed Pin From Net: NetName=PHASE_A Pin=Q2-2
+Removed Pin From Net: NetName=PA_SOURCE Pin=Q2-3
+Removed Pin From Net: NetName=PHASE_B Pin=Q3-1
+Removed Pin From Net: NetName=PHASE_B Pin=Q3-2
+Removed Pin From Net: NetName=PHASE_B Pin=Q3-3
+Removed Pin From Net: NetName=V_SUPPLY Pin=Q3-5
+Removed Pin From Net: NetName=V_SUPPLY Pin=Q3-6
+Removed Pin From Net: NetName=V_SUPPLY Pin=Q3-7
+Removed Pin From Net: NetName=V_SUPPLY Pin=Q3-8
+Removed Pin From Net: NetName=V_SUPPLY Pin=Q3-9
+Removed Pin From Net: NetName=PHASE_B Pin=Q4-2
+Removed Pin From Net: NetName=PB_SOURCE Pin=Q4-3
+Removed Pin From Net: NetName=PHASE_C Pin=Q5-1
+Removed Pin From Net: NetName=PHASE_C Pin=Q5-2
+Removed Pin From Net: NetName=PHASE_C Pin=Q5-3
+Removed Pin From Net: NetName=V_SUPPLY Pin=Q5-5
+Removed Pin From Net: NetName=V_SUPPLY Pin=Q5-6
+Removed Pin From Net: NetName=V_SUPPLY Pin=Q5-7
+Removed Pin From Net: NetName=V_SUPPLY Pin=Q5-8
+Removed Pin From Net: NetName=PHASE_C Pin=Q6-2
+Removed Pin From Net: NetName=PC_SOURCE Pin=Q6-3
+Removed Member From Class: ClassName=Vesc Member=Q1
+Removed Member From Class: ClassName=Vesc Member=Q2
+Removed Member From Class: ClassName=Vesc Member=Q3
+Removed Member From Class: ClassName=Vesc Member=Q4
+Removed Member From Class: ClassName=Vesc Member=Q5
+Removed Member From Class: ClassName=Vesc Member=Q6
+Change Component Designator: OldDesignator=C16 NewDesignator=C11A
+Change Component Designator: OldDesignator=C17 NewDesignator=C11B
+Change Component Designator: OldDesignator=C31 NewDesignator=C9A
+Change Component Designator: OldDesignator=C35 NewDesignator=C10A
+Change Component Designator: OldDesignator=R28 NewDesignator=R1A
+Change Component Designator: OldDesignator=R29 NewDesignator=R2A
+Change Component Designator: OldDesignator=R30 NewDesignator=R7A
+Change Component Designator: OldDesignator=R34 NewDesignator=R3A
+Change Component Designator: OldDesignator=R35 NewDesignator=R4A
+Change Component Designator: OldDesignator=R36 NewDesignator=R8A
+Change Component Designator: OldDesignator=R42 NewDesignator=R5A
+Change Component Designator: OldDesignator=R43 NewDesignator=R6A
+Change Component Designator: OldDesignator=R46 NewDesignator=R9A
+Change Component Designator: OldDesignator=R100 NewDesignator=R10A
+Change Component Designator: OldDesignator=R200 NewDesignator=R11A
+Change Component Designator: OldDesignator=R300 NewDesignator=R12A
+Added Component: Designator=Q1A(VSONP-8)
+Added Component: Designator=Q2A(TO-220)
+Added Component: Designator=Q3A(VSONP-8)
+Added Component: Designator=Q4A(TO-220)
+Added Component: Designator=Q5A(VSONP-8)
+Added Component: Designator=Q6A(TO-220)
+Added Pin To Net: NetName=PHASE_A Pin=Q1A-1
+Added Pin To Net: NetName=PHASE_A Pin=Q1A-2
+Added Pin To Net: NetName=PHASE_A Pin=Q1A-3
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1A-5
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1A-6
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1A-7
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1A-8
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1A-9
+Added Pin To Net: NetName=PHASE_A Pin=Q2A-2
+Added Pin To Net: NetName=PA_SOURCE Pin=Q2A-3
+Added Pin To Net: NetName=PHASE_B Pin=Q3A-1
+Added Pin To Net: NetName=PHASE_B Pin=Q3A-2
+Added Pin To Net: NetName=PHASE_B Pin=Q3A-3
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-5
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-6
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-7
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-8
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=PHASE_B Pin=Q4A-2
+Added Pin To Net: NetName=PB_SOURCE Pin=Q4A-3
+Added Pin To Net: NetName=PHASE_C Pin=Q5A-1
+Added Pin To Net: NetName=PHASE_C Pin=Q5A-2
+Added Pin To Net: NetName=PHASE_C Pin=Q5A-3
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-5
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-6
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-7
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-8
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Added Pin To Net: NetName=PHASE_C Pin=Q6A-2
+Added Pin To Net: NetName=PC_SOURCE Pin=Q6A-3
+Change Net Name : Old Net Name=NetC16_1 New Net Name=NetC11A_1
+Change Net Name : Old Net Name=NetC17_1 New Net Name=NetC11B_1
+Added Pin To Net: NetName=NetQ1A_4 Pin=Q1A-4
+Added Pin To Net: NetName=NetQ1A_4 Pin=R1A-2
+Added Net: Name=NetQ1A_4
+Added Pin To Net: NetName=NetQ2A_1 Pin=Q2A-1
+Added Pin To Net: NetName=NetQ2A_1 Pin=R2A-2
+Added Pin To Net: NetName=NetQ2A_1 Pin=R7A-2
+Added Net: Name=NetQ2A_1
+Added Pin To Net: NetName=NetQ3A_4 Pin=Q3A-4
+Added Pin To Net: NetName=NetQ3A_4 Pin=R3A-2
+Added Net: Name=NetQ3A_4
+Added Pin To Net: NetName=NetQ4A_1 Pin=Q4A-1
+Added Pin To Net: NetName=NetQ4A_1 Pin=R4A-2
+Added Pin To Net: NetName=NetQ4A_1 Pin=R8A-2
+Added Net: Name=NetQ4A_1
+Added Pin To Net: NetName=NetQ5A_4 Pin=Q5A-4
+Added Pin To Net: NetName=NetQ5A_4 Pin=R5A-2
+Added Net: Name=NetQ5A_4
+Added Pin To Net: NetName=NetQ6A_1 Pin=Q6A-1
+Added Pin To Net: NetName=NetQ6A_1 Pin=R6A-2
+Added Pin To Net: NetName=NetQ6A_1 Pin=R9A-2
+Added Net: Name=NetQ6A_1
+Added Member To Class: ClassName=Vesc Member=Component Q1A CSD19531Q5A
+Added Member To Class: ClassName=Vesc Member=Component Q2A SUP70060E-GE3
+Added Member To Class: ClassName=Vesc Member=Component Q3A CSD19531Q5A
+Added Member To Class: ClassName=Vesc Member=Component Q4A SUP70060E-GE3
+Added Member To Class: ClassName=Vesc Member=Component Q5A CSD19531Q5A
+Added Member To Class: ClassName=Vesc Member=Component Q6A SUP70060E-GE3

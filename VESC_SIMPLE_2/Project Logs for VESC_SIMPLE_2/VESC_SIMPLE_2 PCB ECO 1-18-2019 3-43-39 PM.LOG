@@ -1,0 +1,15 @@
+Removed Member From Class: ClassName=Vesc_Simple_2 Member=U2
+Added Component: Designator=R89(RES 0402)
+Added Component: Designator=R90(RES 0402)
+Added Component: Designator=U89(SOT-23-3)
+Added Pin To Net: NetName=VCC_3V3 Pin=R90-1
+Added Pin To Net: NetName=GND Pin=U89-2
+Added Pin To Net: NetName=V_REF Pin=R89-2
+Added Pin To Net: NetName=V_REF Pin=U89-1
+Added Net: Name=V_REF
+Added Pin To Net: NetName=VREF_EN Pin=R89-1
+Added Pin To Net: NetName=VREF_EN Pin=R90-2
+Added Net: Name=VREF_EN
+Added Member To Class: ClassName=Vesc_Simple_2 Member=Component R89 ERJ-2RKF4700X
+Added Member To Class: ClassName=Vesc_Simple_2 Member=Component R90 ERJ-2GE0R00X
+Added Member To Class: ClassName=Vesc_Simple_2 Member=Component U89 LM4041DYM3-1.2-TR

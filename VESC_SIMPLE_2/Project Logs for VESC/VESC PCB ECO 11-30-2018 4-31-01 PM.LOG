@@ -1,0 +1,9 @@
+Change Component DesignItemId : Designator=J9 Old DesignItemId=HEADER_24P1_FEMALE_TH New DesignItemId=HEADER_28P1_FEMALE_TH
+Change Component Footprint: Designator=J9 Old Footprint=HEADER_24P1_FEMALE_TH New Footprint=HEADER_28P1_FEMALE_TH
+Change Component Footprint: Designator=Q2A Old Footprint=TO-220 - Horizontal Inverted New Footprint=TO-220
+Change Component Footprint: Designator=Q2B Old Footprint=TO-220 - Horizontal Inverted New Footprint=TO-220
+Change Component Footprint: Designator=Q4A Old Footprint=TO-220 - Horizontal Inverted New Footprint=TO-220
+Change Component Footprint: Designator=Q4B Old Footprint=TO-220 - Horizontal Inverted New Footprint=TO-220
+Change Component Footprint: Designator=Q6A Old Footprint=TO-220 - Horizontal Inverted New Footprint=TO-220
+Change Component Footprint: Designator=Q6B Old Footprint=TO-220 - Horizontal Inverted New Footprint=TO-220
+Change Component Comment : Designator=J9 Old Comment=HEADER_24P1_FEMALE_TH New Comment=HEADER_28P1_FEMALE_TH

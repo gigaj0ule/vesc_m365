@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=MA_SCK_ADC_EXT Pin=J9-15
+Removed Pin From Net: NetName=MA_MISO_ADC_EXT2 Pin=J9-16
+Removed Pin From Net: NetName=MA_TX Pin=J9-17
+Removed Pin From Net: NetName=MA_RX Pin=J9-18
+Added Pin To Net: NetName=JTMS Pin=J9-15
+Added Pin To Net: NetName=NJTRST Pin=J9-16
+Added Pin To Net: NetName=MA_SCK_ADC_EXT Pin=J9-17
+Added Pin To Net: NetName=MA_MISO_ADC_EXT2 Pin=J9-18
+Added Pin To Net: NetName=MA_TX Pin=J9-19
+Added Pin To Net: NetName=MA_RX Pin=J9-20

@@ -1,0 +1,4 @@
+Added Component: Designator=R9A(RES 0402)
+Added Pin To Net: NetName=MA_ESTOP Pin=R9A-1
+Added Pin To Net: NetName=NetQ6A_4 Pin=R9A-2
+Added Member To Class: ClassName=Vesc_Simple_2 Member=Component R9A ERJ-2RKF3902X

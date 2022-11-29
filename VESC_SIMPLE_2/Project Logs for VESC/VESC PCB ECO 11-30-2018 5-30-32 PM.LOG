@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=MB_PA_SOURCE Pin=R7B-1
+Removed Pin From Net: NetName=MB_PB_SOURCE Pin=R8B-1
+Removed Pin From Net: NetName=MB_PC_SOURCE Pin=R9B-1
+Added Pin To Net: NetName=ESTOP Pin=R7B-1
+Added Pin To Net: NetName=ESTOP Pin=R8B-1
+Added Pin To Net: NetName=ESTOP Pin=R9B-1

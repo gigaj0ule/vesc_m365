@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=R11 NewDesignator=R13A
+Change Component Designator: OldDesignator=R12 NewDesignator=R14A
+Change Component Designator: OldDesignator=R13 NewDesignator=R15A
+Added Member To Class: ClassName=Vesc Member=Component Q1 CSD19531Q5A
+Added Member To Class: ClassName=Vesc Member=Component Q2 SUP70060E-GE3

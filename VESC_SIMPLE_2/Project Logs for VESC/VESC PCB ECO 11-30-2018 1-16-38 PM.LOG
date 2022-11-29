@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VCC_3V3 Pin=C25-1
+Removed Pin From Net: NetName=GND Pin=C25-2
+Removed Member From Class: ClassName=Vesc Member=C25
+Added Member To Class: ClassName=Vesc Member=Component R34B ERJ-2RKF1002X

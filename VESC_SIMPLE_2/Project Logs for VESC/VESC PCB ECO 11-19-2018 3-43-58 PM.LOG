@@ -1,0 +1,24 @@
+Change Component Designator: OldDesignator=C16 NewDesignator=C11A
+Change Component Designator: OldDesignator=C17 NewDesignator=C11B
+Change Component Designator: OldDesignator=C31 NewDesignator=C9A
+Change Component Designator: OldDesignator=C35 NewDesignator=C10A
+Change Component Designator: OldDesignator=R28 NewDesignator=R1A
+Change Component Designator: OldDesignator=R29 NewDesignator=R2A
+Change Component Designator: OldDesignator=R30 NewDesignator=R7A
+Change Component Designator: OldDesignator=R34 NewDesignator=R3A
+Change Component Designator: OldDesignator=R35 NewDesignator=R4A
+Change Component Designator: OldDesignator=R36 NewDesignator=R8A
+Change Component Designator: OldDesignator=R42 NewDesignator=R5A
+Change Component Designator: OldDesignator=R43 NewDesignator=R6A
+Change Component Designator: OldDesignator=R46 NewDesignator=R9A
+Change Component Designator: OldDesignator=R100 NewDesignator=R10A
+Change Component Designator: OldDesignator=R200 NewDesignator=R11A
+Change Component Designator: OldDesignator=R300 NewDesignator=R12A
+Change Net Name : Old Net Name=NetC16_1 New Net Name=NetC11A_1
+Change Net Name : Old Net Name=NetC17_1 New Net Name=NetC11B_1
+Added Member To Class: ClassName=Vesc Member=Component Q1 CSD19531Q5A
+Added Member To Class: ClassName=Vesc Member=Component Q2 SUP70060E-GE3
+Added Member To Class: ClassName=Vesc Member=Component Q3 CSD19531Q5A
+Added Member To Class: ClassName=Vesc Member=Component Q4 SUP70060E-GE3
+Added Member To Class: ClassName=Vesc Member=Component Q5 CSD19531Q5A
+Added Member To Class: ClassName=Vesc Member=Component Q6 SUP70060E-GE3

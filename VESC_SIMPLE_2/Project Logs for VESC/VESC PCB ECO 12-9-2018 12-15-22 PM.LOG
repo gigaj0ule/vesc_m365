@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=VCC_3V3 Pin=J9-25
+Added Pin To Net: NetName=MB_ESTOP Pin=J9-26
+Added Pin To Net: NetName=MA_ESTOP Pin=J9-27
+Added Pin To Net: NetName=GND Pin=J9-28

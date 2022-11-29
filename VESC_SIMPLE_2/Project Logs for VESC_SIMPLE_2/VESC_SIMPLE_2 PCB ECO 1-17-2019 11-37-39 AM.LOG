@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MB_EN_GATE Pin=U1B-57
+Added Pin To Net: NetName=MB_EN_GATE Pin=U1B-51
+Change Class Name : Old Net Name=Vesc_Simple New Net Name=Vesc_Simple_2
+Added Room: Name=Vesc_Simple_2

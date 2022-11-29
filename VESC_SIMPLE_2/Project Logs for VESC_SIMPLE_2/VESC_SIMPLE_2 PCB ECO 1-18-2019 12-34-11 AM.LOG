@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=DISABLE_GATES Pin=Q7A-1
+Removed Pin From Net: NetName=GND Pin=Q7A-2
+Removed Pin From Net: NetName=DISABLE_GATES Pin=Q7B-1
+Removed Pin From Net: NetName=GND Pin=Q7B-2
+Removed Pin From Net: NetName=MB_EN_GATE_R Pin=Q7B-3
+Removed Pin From Net: NetName=MA_EN_GATE Pin=R39A-2
+Removed Pin From Net: NetName=MB_EN_GATE_R Pin=R39B-1
+Removed Pin From Net: NetName=MB_EN_GATE Pin=R39B-2
+Removed Member From Class: ClassName=Vesc_Simple_2 Member=Q7A
+Removed Member From Class: ClassName=Vesc_Simple_2 Member=Q7B
+Removed Member From Class: ClassName=Vesc_Simple_2 Member=R39A
+Removed Member From Class: ClassName=Vesc_Simple_2 Member=R39B

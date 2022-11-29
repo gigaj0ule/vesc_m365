@@ -1,0 +1,10 @@
+Change Component DesignItemId : Designator=R33A Old DesignItemId=ERJ-2RKF2611X New DesignItemId=ERJ-2RKF3162X
+Change Component DesignItemId : Designator=R33B Old DesignItemId=ERJ-2RKF3162X New DesignItemId=ERJ-2RKF2611X
+Change Component Comment : Designator=R33A Old Comment=ERJ-2RKF2611X New Comment=ERJ-2RKF3162X
+Change Component Comment : Designator=R33B Old Comment=ERJ-2RKF3162X New Comment=ERJ-2RKF2611X
+Change Component Description : Designator=R33A Old Description=RES 0402 2.61k 1% New Description=RES 0402 31.6k 1%
+Change Component Description : Designator=R33B Old Description=RES 0402 31.6k 1% New Description=RES 0402 2.61k 1%
+Added Pin To Net: NetName=VCC_3V3 Pin=C33A-1
+Added Pin To Net: NetName=VCC_3V3 Pin=L1A-2
+Added Pin To Net: NetName=VCC_3V3 Pin=R34A-2
+Change Net Name : Old Net Name=VCC_3V3_B New Net Name=VCC_12V

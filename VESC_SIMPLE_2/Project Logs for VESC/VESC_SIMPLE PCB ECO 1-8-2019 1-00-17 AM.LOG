@@ -1,0 +1,9 @@
+Added Component: Designator=R5(RES 0402)
+Added Component: Designator=R6(RES 0402)
+Added Pin To Net: NetName=V_CHG Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=V_CHG_SNS Pin=R5-1
+Added Pin To Net: NetName=V_CHG_SNS Pin=R6-2
+Added Net: Name=V_CHG_SNS
+Added Member To Class: ClassName=Vesc_Simple Member=Component R5 ERJ-2RKF3902X
+Added Member To Class: ClassName=Vesc_Simple Member=Component R6 ERJ-2RKF2201X

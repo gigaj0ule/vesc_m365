@@ -1,0 +1,2 @@
+Change Component Description : Designator=C22 Old Description=CAP 0603 47nF 25V (X7R DIELECTRIC) New Description=CAP 0603 47nF 100V (X7R DIELECTRIC)
+Added Member To Class: ClassName=Vesc Member=Component R28 ERJ-PA3J4R7V

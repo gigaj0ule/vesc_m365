@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=MB_ESTOP Pin=J11-12
+Removed Pin From Net: NetName=MA_ESTOP Pin=J11-13
+Removed Pin From Net: NetName=V_SUPPLY Pin=J12-13
+Removed Pin From Net: NetName=V_SUPPLY Pin=J12-14
+Added Pin To Net: NetName=MA_ESTOP Pin=J12-13
+Added Pin To Net: NetName=MB_ESTOP Pin=J12-14

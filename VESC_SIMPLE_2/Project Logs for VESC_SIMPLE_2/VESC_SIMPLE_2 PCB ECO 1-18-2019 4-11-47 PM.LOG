@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=MA_AGND Pin=C9A-2
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=GND Pin=C79-1
+Removed Pin From Net: NetName=GND Pin=C89-1
+Removed Pin From Net: NetName=MA_AGND Pin=U1A-12
+Removed Pin From Net: NetName=GND Pin=U11-2
+Removed Pin From Net: NetName=GND Pin=U12-2
+Removed Pin From Net: NetName=GND Pin=U89-2
+Added Pin To Net: NetName=MA_VSSA Pin=C9A-2
+Added Pin To Net: NetName=MA_VSSA Pin=C11-2
+Added Pin To Net: NetName=MA_VSSA Pin=C12-2
+Added Pin To Net: NetName=MA_VSSA Pin=C79-1
+Added Pin To Net: NetName=MA_VSSA Pin=C89-1
+Added Pin To Net: NetName=MA_VSSA Pin=U1A-12
+Added Pin To Net: NetName=MA_VSSA Pin=U11-2
+Added Pin To Net: NetName=MA_VSSA Pin=U12-2
+Added Pin To Net: NetName=MA_VSSA Pin=U89-2
+Added Net: Name=MA_VSSA

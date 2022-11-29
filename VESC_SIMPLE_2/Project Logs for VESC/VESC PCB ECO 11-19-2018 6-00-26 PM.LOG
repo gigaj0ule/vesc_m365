@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetQ6_1 Pin=Q6-1
+Removed Pin From Net: NetName=PHASE_C Pin=Q6-2
+Removed Pin From Net: NetName=PC_SOURCE Pin=Q6-3
+Removed Member From Class: ClassName=Vesc Member=Q6
+Added Component: Designator=Q6A(TO-220)
+Added Pin To Net: NetName=NetQ6_1 Pin=Q6A-1
+Added Pin To Net: NetName=PHASE_C Pin=Q6A-2
+Added Pin To Net: NetName=PC_SOURCE Pin=Q6A-3
+Change Net Name : Old Net Name=NetQ6_1 New Net Name=NetQ6A_1
+Added Member To Class: ClassName=Vesc Member=Component Q6A SUP70060E-GE3

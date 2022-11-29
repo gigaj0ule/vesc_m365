@@ -1,0 +1,12 @@
+Added Component: Designator=C43A(CAP 0402)
+Added Component: Designator=C45A(CAP 0402)
+Added Component: Designator=C210A(CAP 0402)
+Added Pin To Net: NetName=VCC_12V Pin=C43A-1
+Added Pin To Net: NetName=MA_PB_AGND Pin=C43A-2
+Added Pin To Net: NetName=VCC_12V Pin=C45A-1
+Added Pin To Net: NetName=MA_PC_SOURCE Pin=C45A-2
+Added Pin To Net: NetName=VCC_12V Pin=C210A-1
+Added Pin To Net: NetName=MA_PA_SOURCE Pin=C210A-2
+Added Member To Class: ClassName=Vesc_Simple_2 Member=Component C43A GRM155C81C225ME15D
+Added Member To Class: ClassName=Vesc_Simple_2 Member=Component C45A GRM155C81C225ME15D
+Added Member To Class: ClassName=Vesc_Simple_2 Member=Component C210A GRM155C81C225ME15D

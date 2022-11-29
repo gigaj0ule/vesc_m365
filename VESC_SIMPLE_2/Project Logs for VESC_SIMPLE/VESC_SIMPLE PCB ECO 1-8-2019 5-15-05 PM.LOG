@@ -1,0 +1,5 @@
+Added Component: Designator=C10(CAP 0402)
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=VCC_3V3 Pin=C10-2
+Added Pin To Net: NetName=NTC_M Pin=U1A-11
+Added Member To Class: ClassName=Vesc_Simple Member=Component C10 GCM155R71E103JA37D

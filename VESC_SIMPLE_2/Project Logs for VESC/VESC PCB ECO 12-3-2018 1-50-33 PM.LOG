@@ -1,0 +1,12 @@
+Added Component: Designator=D4B(SOD-123)
+Added Component: Designator=D5B(SOD-123)
+Added Component: Designator=D6B(SOD-123)
+Added Pin To Net: NetName=MB_PHASE_A Pin=D4B-1
+Added Pin To Net: NetName=EBRAKEVCC Pin=D4B-2
+Added Pin To Net: NetName=MB_PHASE_B Pin=D5B-1
+Added Pin To Net: NetName=EBRAKEVCC Pin=D5B-2
+Added Pin To Net: NetName=MB_PHASE_C Pin=D6B-1
+Added Pin To Net: NetName=EBRAKEVCC Pin=D6B-2
+Added Member To Class: ClassName=Vesc Member=Component D4B BAS16GWJ
+Added Member To Class: ClassName=Vesc Member=Component D5B BAS16GWJ
+Added Member To Class: ClassName=Vesc Member=Component D6B BAS16GWJ

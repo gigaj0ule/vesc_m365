@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MB_CAN_TX Pin=J10-3
+Removed Pin From Net: NetName=MB_CAN_RX Pin=J10-4
+Removed Pin From Net: NetName=MA_CAN_TX Pin=J10-13
+Removed Pin From Net: NetName=MA_CAN_RX Pin=J10-14

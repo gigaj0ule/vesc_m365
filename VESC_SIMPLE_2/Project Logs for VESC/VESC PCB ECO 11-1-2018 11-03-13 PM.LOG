@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=H3 Pin=C5-2
+Added Pin To Net: NetName=H2 Pin=C6-2
+Added Pin To Net: NetName=H1 Pin=C8-2
+Added Pin To Net: NetName=H1 Pin=R8-2
+Added Pin To Net: NetName=H2 Pin=R9-2
+Added Pin To Net: NetName=H3 Pin=R10-2
+Added Pin To Net: NetName=TEMP_IN Pin=U1-8

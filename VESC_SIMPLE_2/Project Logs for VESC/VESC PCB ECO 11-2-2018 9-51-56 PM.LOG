@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=H3_VS Pin=R23-2
+Added Pin To Net: NetName=PHASE_C Pin=R23-2
+Change Net Name : Old Net Name=H1_VS New Net Name=PHASE_A
+Change Net Name : Old Net Name=H2_VS New Net Name=PHASE_B
+Change Net Name : Old Net Name=VOLTAGE1 New Net Name=VOLTAGE_A
+Change Net Name : Old Net Name=VOLTAGE2 New Net Name=VOLTAGE_B
+Change Net Name : Old Net Name=VOLTAGE3 New Net Name=VOLTAGE_C
+Added Member To Class: ClassName=Vesc Member=Component C? C0402C222J3RACTU
+Added Member To Class: ClassName=Vesc Member=Component C? C0402C222J3RACTU
+Added Member To Class: ClassName=Vesc Member=Component R57 ERJ-2RKF1000X
+Added Member To Class: ClassName=Vesc Member=Component R57 ERJ-2RKF1000X
+Added Member To Class: ClassName=Vesc Member=Component R57 ERJ-2RKF1000X
+Added Member To Class: ClassName=Vesc Member=Component R57 ERJ-2RKF1000X
+Added Member To Class: ClassName=Vesc Member=Component R57 ERJ-2RKF1000X

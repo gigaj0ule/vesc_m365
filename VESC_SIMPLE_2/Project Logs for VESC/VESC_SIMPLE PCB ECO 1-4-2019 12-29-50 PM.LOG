@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=MA_PB_SOURCE Pin=R11A-2
+Removed Member From Class: ClassName=Vesc_Simple Member=R11A
+Change Component DesignItemId : Designator=R10A Old DesignItemId=WSLF2512L5000FEA New DesignItemId=WSL27262L000FEB
+Change Component DesignItemId : Designator=R12A Old DesignItemId=WSLF2512L5000FEA New DesignItemId=WSL27262L000FEB
+Change Component Footprint: Designator=R10A Old Footprint=RES 2512 New Footprint=WSL2726
+Change Component Footprint: Designator=R12A Old Footprint=RES 2512 New Footprint=WSL2726
+Change Component Comment : Designator=R10A Old Comment=WSLF2512L5000FEA New Comment=WSL27262L000FEB
+Change Component Comment : Designator=R12A Old Comment=WSLF2512L5000FEA New Comment=WSL27262L000FEB
+Added Component: Designator=C16B(CAP 0402)
+Added Component: Designator=R27B(RES 0402)
+Added Component: Designator=R28B(RES 0402)
+Added Pin To Net: NetName=MB_PB_AGND_F Pin=C16B-1
+Added Pin To Net: NetName=MB_PB_SOURCE_F Pin=C16B-2
+Added Pin To Net: NetName=MA_PB_SOURCE Pin=C36A-1
+Added Pin To Net: NetName=MB_PB_SOURCE_F Pin=R27B-1
+Added Pin To Net: NetName=MB_PB_AGND Pin=R27B-2
+Added Pin To Net: NetName=MA_PB_SOURCE Pin=R28A-2
+Added Pin To Net: NetName=MB_PB_AGND_F Pin=R28B-1
+Added Pin To Net: NetName=MB_PB_AGND Pin=R28B-2
+Change Net Name : Old Net Name=MA_PB_SOURCE New Net Name=MA_PB_AGND
+Added Member To Class: ClassName=Vesc_Simple Member=Component C16B GCM155R72A222KA37D
+Added Member To Class: ClassName=Vesc_Simple Member=Component R27B ERJ-2RKF1000X
+Added Member To Class: ClassName=Vesc_Simple Member=Component R28B ERJ-2RKF1000X

@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=D1 Old Footprint=Diode 0603 New Footprint=LED 0603
+Change Component Footprint: Designator=D2 Old Footprint=Diode 0603 New Footprint=LED 0603
+Change Component Description : Designator=Q1 Old Description=100V 4.2mOhm N-MOSFET New Description=100V D2PAK 4.2mOhm N-MOSFET
+Change Component Description : Designator=Q3 Old Description=100V 4.2mOhm N-MOSFET New Description=100V D2PAK 4.2mOhm N-MOSFET
+Change Component Description : Designator=Q5 Old Description=100V 4.2mOhm N-MOSFET New Description=100V D2PAK 4.2mOhm N-MOSFET
+Added Member To Class: ClassName=Vesc Member=Component C? C0402C222J3RACTU
+Added Member To Class: ClassName=Vesc Member=Component C? C0402C222J3RACTU
+Added Member To Class: ClassName=Vesc Member=Component R57 ERJ-2RKF1000X
+Added Member To Class: ClassName=Vesc Member=Component R57 ERJ-2RKF1000X
+Added Member To Class: ClassName=Vesc Member=Component R57 ERJ-2RKF1000X
+Added Member To Class: ClassName=Vesc Member=Component R57 ERJ-2RKF1000X
+Added Member To Class: ClassName=Vesc Member=Component R57 ERJ-2RKF1000X

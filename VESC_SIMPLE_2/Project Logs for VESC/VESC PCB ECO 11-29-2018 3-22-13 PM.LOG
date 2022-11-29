@@ -1,0 +1,53 @@
+Removed Pin From Net: NetName=VCC_3V3 Pin=C33A-1
+Removed Pin From Net: NetName=VCC_3V3 Pin=L1A-2
+Removed Pin From Net: NetName=VCC_3V3 Pin=R34A-2
+Change Component DesignItemId : Designator=R33A Old DesignItemId=ERJ-2RKF3162X New DesignItemId=ERJ-2RKF2611X
+Change Component Comment : Designator=R33A Old Comment=ERJ-2RKF3162X New Comment=ERJ-2RKF2611X
+Change Component Description : Designator=R33A Old Description=RES 0402 31.6k 1% New Description=RES 0402 2.61k 1%
+Added Component: Designator=C21B(CAP 0402)
+Added Component: Designator=C33B(CAP 1206)
+Added Component: Designator=D3B(SOD-323/SC76)
+Added Component: Designator=L1B(SDE0805A)
+Added Component: Designator=R33B(RES 0402)
+Added Component: Designator=R34B(RES 0402)
+Added Component: Designator=R35B(RES 0402)
+Added Component: Designator=R36B(RES 0402)
+Added Pin To Net: NetName=V_SUPPLY Pin=C21B-2
+Added Pin To Net: NetName=GND Pin=C33B-2
+Added Pin To Net: NetName=GND Pin=D3B-1
+Added Pin To Net: NetName=GND Pin=R33B-1
+Added Pin To Net: NetName=V_SUPPLY Pin=R35B-2
+Added Pin To Net: NetName=GND Pin=R36B-2
+Added Pin To Net: NetName=NetC21B_1 Pin=C21B-1
+Added Pin To Net: NetName=NetC21B_1 Pin=U3B-45
+Added Net: Name=NetC21B_1
+Added Pin To Net: NetName=NetD3B_2 Pin=D3B-2
+Added Pin To Net: NetName=NetD3B_2 Pin=L1B-1
+Added Pin To Net: NetName=NetD3B_2 Pin=U3B-42
+Added Net: Name=NetD3B_2
+Added Pin To Net: NetName=NetR33B_2 Pin=R33B-2
+Added Pin To Net: NetName=NetR33B_2 Pin=R34B-1
+Added Pin To Net: NetName=NetR33B_2 Pin=U3B-48
+Added Net: Name=NetR33B_2
+Added Pin To Net: NetName=NetR35B_1 Pin=R35B-1
+Added Pin To Net: NetName=NetR35B_1 Pin=U3B-47
+Added Net: Name=NetR35B_1
+Added Pin To Net: NetName=NetR36B_1 Pin=R36B-1
+Added Pin To Net: NetName=NetR36B_1 Pin=U3B-46
+Added Net: Name=NetR36B_1
+Added Pin To Net: NetName=VCC_3V3_B Pin=C33B-1
+Added Pin To Net: NetName=VCC_3V3_B Pin=L1B-2
+Added Pin To Net: NetName=VCC_3V3_B Pin=R34B-2
+Added Net: Name=VCC_3V3_B
+Added Pin To Net: NetName=VCC_12V_A Pin=C33A-1
+Added Pin To Net: NetName=VCC_12V_A Pin=L1A-2
+Added Pin To Net: NetName=VCC_12V_A Pin=R34A-2
+Added Net: Name=VCC_12V_A
+Added Member To Class: ClassName=Vesc Member=Component C21B C0402C103K5RACTU
+Added Member To Class: ClassName=Vesc Member=Component C33B C2012X5R1E106K125AB
+Added Member To Class: ClassName=Vesc Member=Component D3B NSR02100HT1G
+Added Member To Class: ClassName=Vesc Member=Component L1B SDE0805A-331K
+Added Member To Class: ClassName=Vesc Member=Component R33B ERJ-2RKF3162X
+Added Member To Class: ClassName=Vesc Member=Component R34B ERJ-2RKF1002X
+Added Member To Class: ClassName=Vesc Member=Component R35B ERJ-2RKF2743X
+Added Member To Class: ClassName=Vesc Member=Component R36B ERJ-2RKF1003X

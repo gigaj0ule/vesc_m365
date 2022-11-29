@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=V_SUPPLY Pin=C21B-2
+Removed Pin From Net: NetName=GND Pin=C33B-2
+Removed Pin From Net: NetName=GND Pin=D3B-1
+Removed Pin From Net: NetName=GND Pin=R33B-1
+Removed Pin From Net: NetName=V_SUPPLY Pin=R35B-2
+Removed Pin From Net: NetName=GND Pin=R36B-2
+Removed Member From Class: ClassName=Vesc Member=C21B
+Removed Member From Class: ClassName=Vesc Member=C33B
+Removed Member From Class: ClassName=Vesc Member=D3B
+Removed Member From Class: ClassName=Vesc Member=L1B
+Removed Member From Class: ClassName=Vesc Member=R33B
+Removed Member From Class: ClassName=Vesc Member=R34B
+Removed Member From Class: ClassName=Vesc Member=R35B
+Removed Member From Class: ClassName=Vesc Member=R36B

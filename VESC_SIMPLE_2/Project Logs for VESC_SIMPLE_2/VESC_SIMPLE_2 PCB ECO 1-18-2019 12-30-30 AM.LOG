@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=GND Pin=C18A-2
+Removed Pin From Net: NetName=V_SUPPLY Pin=C20A-1
+Removed Pin From Net: NetName=VCC_12V Pin=C38A-1
+Removed Pin From Net: NetName=GND Pin=C38A-2
+Removed Pin From Net: NetName=MA_PA_AGND_F Pin=U22-8
+Removed Member From Class: ClassName=Vesc_Simple_2 Member=C18A
+Removed Member From Class: ClassName=Vesc_Simple_2 Member=C19A
+Removed Member From Class: ClassName=Vesc_Simple_2 Member=C38A
+Change Component Designator: OldDesignator=C22A NewDesignator=C20A
+Added Component: Designator=C42A(CAP 0402)
+Added Component: Designator=C44A(CAP 0402)
+Added Component: Designator=U23(TDFN-10)
+Added Component: Designator=U24(TDFN-10)
+Added Pin To Net: NetName=MA_PHASE_B Pin=C42A-1
+Added Pin To Net: NetName=MA_PHASE_C Pin=C44A-1
+Added Pin To Net: NetName=MA_PA_SOURCE_F Pin=U22-8
+Added Pin To Net: NetName=VCC_12V Pin=U23-1
+Added Pin To Net: NetName=MA_PB_HI Pin=U23-4
+Added Pin To Net: NetName=MA_PHASE_B Pin=U23-5
+Added Pin To Net: NetName=MA_H2 Pin=U23-6
+Added Pin To Net: NetName=MA_L2 Pin=U23-7
+Added Pin To Net: NetName=MA_PB_LO Pin=U23-9
+Added Pin To Net: NetName=VCC_12V Pin=U24-1
+Added Pin To Net: NetName=MA_PC_HI Pin=U24-4
+Added Pin To Net: NetName=MA_PHASE_C Pin=U24-5
+Added Pin To Net: NetName=MA_H3 Pin=U24-6
+Added Pin To Net: NetName=MA_L3 Pin=U24-7
+Added Pin To Net: NetName=MA_PC_SOURCE_F Pin=U24-8
+Added Pin To Net: NetName=MA_PC_LO Pin=U24-9
+Change Net Name : Old Net Name=NetC22A_2 New Net Name=NetC20A_2
+Added Pin To Net: NetName=MA_PB_SOURCE_F Pin=U23-8
+Added Net: Name=MA_PB_SOURCE_F
+Added Pin To Net: NetName=NetC42A_2 Pin=C42A-2
+Added Pin To Net: NetName=NetC42A_2 Pin=U23-3
+Added Net: Name=NetC42A_2
+Added Pin To Net: NetName=NetC44A_2 Pin=C44A-2
+Added Pin To Net: NetName=NetC44A_2 Pin=U24-3
+Added Net: Name=NetC44A_2
+Added Member To Class: ClassName=Vesc_Simple_2 Member=Component C42A GRM155C81C225ME15D
+Added Member To Class: ClassName=Vesc_Simple_2 Member=Component C44A GRM155C81C225ME15D
+Added Member To Class: ClassName=Vesc_Simple_2 Member=Component R4A ERJ-PA3J4R7V
+Added Member To Class: ClassName=Vesc_Simple_2 Member=Component U23 MIC4604YMT
+Added Member To Class: ClassName=Vesc_Simple_2 Member=Component U24 MIC4604YMT

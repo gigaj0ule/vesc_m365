@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=MA_PA_SOURCE Pin=U22-0
+Added Pin To Net: NetName=GND Pin=U23-0
+Added Pin To Net: NetName=MA_PC_SOURCE Pin=U24-0

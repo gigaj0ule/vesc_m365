@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=NetC22A_2 Pin=C22A-2
+Removed Pin From Net: NetName=GND Pin=U3A-0
+Removed Pin From Net: NetName=GND Pin=U3A-1
+Removed Pin From Net: NetName=VCC_12V Pin=U3A-5
+Removed Pin From Net: NetName=V_SUPPLY Pin=U3A-6
+Removed Pin From Net: NetName=MA_PA_HI Pin=U3A-8
+Removed Pin From Net: NetName=MA_PHASE_A Pin=U3A-9
+Removed Pin From Net: NetName=MA_PA_LO Pin=U3A-10
+Removed Pin From Net: NetName=MA_PA_SOURCE_F Pin=U3A-11
+Removed Pin From Net: NetName=MA_PA_AGND_F Pin=U3A-12
+Removed Pin From Net: NetName=MA_PB_LO Pin=U3A-15
+Removed Pin From Net: NetName=MA_PHASE_B Pin=U3A-16
+Removed Pin From Net: NetName=MA_PB_HI Pin=U3A-17
+Removed Pin From Net: NetName=MA_PC_HI Pin=U3A-18
+Removed Pin From Net: NetName=MA_PHASE_C Pin=U3A-19
+Removed Pin From Net: NetName=MA_PC_LO Pin=U3A-20
+Removed Pin From Net: NetName=MA_PC_SOURCE_F Pin=U3A-21
+Removed Pin From Net: NetName=MA_PC_AGND_F Pin=U3A-22
+Removed Pin From Net: NetName=MA_CURRENT_C Pin=U3A-23
+Removed Pin From Net: NetName=MA_CURRENT_A Pin=U3A-25
+Removed Pin From Net: NetName=VCC_3V3 Pin=U3A-26
+Removed Pin From Net: NetName=MA_AGND Pin=U3A-27
+Removed Pin From Net: NetName=MA_NFAULT Pin=U3A-28
+Removed Pin From Net: NetName=MA_DVDD Pin=U3A-29
+Removed Pin From Net: NetName=MA_DVDD Pin=U3A-30
+Removed Pin From Net: NetName=MA_DVDD Pin=U3A-31
+Removed Pin From Net: NetName=MA_EN_GATE_R Pin=U3A-33
+Removed Pin From Net: NetName=MA_H1 Pin=U3A-34
+Removed Pin From Net: NetName=MA_L1 Pin=U3A-35
+Removed Pin From Net: NetName=MA_H2 Pin=U3A-36
+Removed Pin From Net: NetName=MA_L2 Pin=U3A-37
+Removed Pin From Net: NetName=MA_H3 Pin=U3A-38
+Removed Pin From Net: NetName=MA_L3 Pin=U3A-39
+Removed Pin From Net: NetName=MA_DVDD Pin=U3A-40
+Removed Pin From Net: NetName=GND Pin=U3A-41
+Removed Pin From Net: NetName=NetC21A_2 Pin=U3A-42
+Removed Pin From Net: NetName=V_SUPPLY Pin=U3A-43
+Removed Pin From Net: NetName=NetC22A_2 Pin=U3A-44
+Removed Pin From Net: NetName=VCC_12V_SD Pin=U3A-47
+Removed Pin From Net: NetName=NetR33A_2 Pin=U3A-48
+Removed Member From Class: ClassName=Vesc_Simple_2 Member=U3A
+Added Component: Designator=C22A(CAP 0402)
+Added Component: Designator=U22(TDFN-10)
+Added Pin To Net: NetName=MA_PHASE_A Pin=C22A-1
+Added Pin To Net: NetName=NetC22A_2 Pin=C22A-2
+Added Pin To Net: NetName=VCC_12V Pin=U22-1
+Added Pin To Net: NetName=NetC22A_2 Pin=U22-3
+Added Pin To Net: NetName=MA_PA_HI Pin=U22-4
+Added Pin To Net: NetName=MA_PHASE_A Pin=U22-5
+Added Pin To Net: NetName=MA_H1 Pin=U22-6
+Added Pin To Net: NetName=MA_L1 Pin=U22-7
+Added Pin To Net: NetName=MA_PA_AGND_F Pin=U22-8
+Added Pin To Net: NetName=MA_PA_LO Pin=U22-9
+Added Member To Class: ClassName=Vesc_Simple_2 Member=Component C22A GRM155C81C225ME15D
+Added Member To Class: ClassName=Vesc_Simple_2 Member=Component U22 MIC4604YMT

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=MA_ESTOP Pin=R7A-1
+Removed Pin From Net: NetName=NetQ2A_4 Pin=R7A-2
+Removed Pin From Net: NetName=MA_ESTOP Pin=R8A-1
+Removed Pin From Net: NetName=NetQ4A_4 Pin=R8A-2
+Removed Pin From Net: NetName=MA_ESTOP Pin=R9A-1
+Removed Pin From Net: NetName=NetQ6A_4 Pin=R9A-2
+Removed Member From Class: ClassName=Vesc_Simple_2 Member=R7A
+Removed Member From Class: ClassName=Vesc_Simple_2 Member=R8A
+Removed Member From Class: ClassName=Vesc_Simple_2 Member=R9A
+Added Component: Designator=U1(QFN-14 - P0.5MM)
+Added Member To Class: ClassName=Vesc_Simple_2 Member=Component U1 FUSB302B

@@ -1,0 +1,19 @@
+Added Component: Designator=D4A(SOD-123)
+Added Component: Designator=D5A(SOD-123)
+Added Component: Designator=D6A(SOD-123)
+Added Pin To Net: NetName=MA_PHASE_A Pin=D4A-1
+Added Pin To Net: NetName=MA_PHASE_B Pin=D5A-1
+Added Pin To Net: NetName=MA_PHASE_C Pin=D6A-1
+Added Pin To Net: NetName=EBRAKEVCC Pin=D4A-2
+Added Pin To Net: NetName=EBRAKEVCC Pin=D5A-2
+Added Pin To Net: NetName=EBRAKEVCC Pin=D6A-2
+Added Net: Name=EBRAKEVCC
+Added Member To Class: ClassName=Vesc Member=Component C21B C0402C103K5RACTU
+Added Member To Class: ClassName=Vesc Member=Component C22B C0402C225M8PACTU
+Added Member To Class: ClassName=Vesc Member=Component C23B C0402C225M8PACTU
+Added Member To Class: ClassName=Vesc Member=Component D3B NSR02100HT1G
+Added Member To Class: ClassName=Vesc Member=Component D4A BAS16GWJ
+Added Member To Class: ClassName=Vesc Member=Component D5A BAS16GWJ
+Added Member To Class: ClassName=Vesc Member=Component D6A BAS16GWJ
+Added Member To Class: ClassName=Vesc Member=Component R35B ERJ-2RKF2743X
+Added Member To Class: ClassName=Vesc Member=Component R36B ERJ-2RKF1003X

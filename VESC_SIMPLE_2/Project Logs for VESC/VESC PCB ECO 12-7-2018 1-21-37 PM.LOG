@@ -1,0 +1,11 @@
+Added Component: Designator=Q7A(SOT-23-3)
+Added Component: Designator=Q7B(SOT-23-3)
+Added Pin To Net: NetName=MA_EN_GATE_R Pin=Q7A-2
+Added Pin To Net: NetName=GND Pin=Q7A-3
+Added Pin To Net: NetName=MB_EN_GATE_R Pin=Q7B-2
+Added Pin To Net: NetName=GND Pin=Q7B-3
+Added Pin To Net: NetName=DISABLE_GATES Pin=Q7A-1
+Added Pin To Net: NetName=DISABLE_GATES Pin=Q7B-1
+Added Net: Name=DISABLE_GATES
+Added Member To Class: ClassName=Vesc Member=Component Q7A NX7002AKVL
+Added Member To Class: ClassName=Vesc Member=Component Q7B NX7002AKVL

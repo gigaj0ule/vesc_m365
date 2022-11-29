@@ -1,0 +1,7 @@
+Change Component DesignItemId : Designator=R36A Old DesignItemId=ERJ-2RKF1003X New DesignItemId=ERJ-2RKF1333X
+Change Component DesignItemId : Designator=L1A Old DesignItemId=SRN8040TA-470M New DesignItemId=SDE0805A-271K
+Change Component Footprint: Designator=L1A Old Footprint=SRN8040TA New Footprint=SDE0805A
+Change Component Comment : Designator=R36A Old Comment=ERJ-2RKF1003X New Comment=ERJ-2RKF1333X
+Change Component Comment : Designator=L1A Old Comment=SRN8040TA-470M New Comment=SDE0805A-271K
+Change Component Description : Designator=R36A Old Description=RES 0402 100k 1% New Description=RES 0402 133k 1%
+Added Room: Name=Vesc

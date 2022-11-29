@@ -1,0 +1,5 @@
+Change Net Name : Old Net Name=MA_MOSI New Net Name=MA_SCL
+Change Net Name : Old Net Name=MA_RX_SDA_NSS New Net Name=MA_SDA
+Added Pin To Net: NetName=CAN_RX Pin=U1A-61
+Added Pin To Net: NetName=CAN_RX Pin=U1B-61
+Added Net: Name=CAN_RX

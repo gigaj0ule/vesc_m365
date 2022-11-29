@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=V_OUT Pin=R17-2
+Removed Member From Class: ClassName=Vesc Member=R17
+Change Component Designator: OldDesignator=R2 NewDesignator=R36A
+Change Component Designator: OldDesignator=R60 NewDesignator=R35A
+Change Component Designator: OldDesignator=R69 NewDesignator=R33A
+Added Component: Designator=R34A(RES 0402)
+Added Pin To Net: NetName=V_OUT Pin=R34A-2
+Change Net Name : Old Net Name=NetR2_1 New Net Name=NetR36A_1
+Change Net Name : Old Net Name=NetR60_1 New Net Name=NetR35A_1
+Added Pin To Net: NetName=NetR33A_2 Pin=R33A-2
+Added Pin To Net: NetName=NetR33A_2 Pin=R34A-1
+Added Pin To Net: NetName=NetR33A_2 Pin=U3-48
+Added Net: Name=NetR33A_2
+Added Member To Class: ClassName=Vesc Member=Component R34A ERJ-2RKF1002X

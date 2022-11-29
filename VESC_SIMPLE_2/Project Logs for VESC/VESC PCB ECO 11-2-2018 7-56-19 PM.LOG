@@ -1,0 +1,79 @@
+Removed Pin From Net: NetName=GND Pin=C59-1
+Removed Pin From Net: NetName=GND Pin=C60-1
+Removed Pin From Net: NetName=GND Pin=C61-1
+Removed Pin From Net: NetName=CURRENT_A Pin=R55-2
+Removed Pin From Net: NetName=CURRENT_B Pin=R56-2
+Removed Pin From Net: NetName=CURRENT_C Pin=R57-2
+Removed Member From Class: ClassName=Vesc Member=C59
+Removed Member From Class: ClassName=Vesc Member=C60
+Removed Member From Class: ClassName=Vesc Member=C61
+Removed Member From Class: ClassName=Vesc Member=R55
+Removed Member From Class: ClassName=Vesc Member=R56
+Added Component: Designator=C?(CAP 0402)
+Added Component: Designator=C?(CAP 0402)
+Added Component: Designator=C?(CAP 0402)
+Added Component: Designator=R57(RES 0402)
+Added Component: Designator=R57(RES 0402)
+Added Component: Designator=R57(RES 0402)
+Added Component: Designator=R57(RES 0402)
+Added Component: Designator=R57(RES 0402)
+Added Pin To Net: NetName=CURRENT_A Pin=U1-8
+Added Pin To Net: NetName=CURRENT_B Pin=U1-9
+Added Pin To Net: NetName=CURRENT_C Pin=U1-10
+Change Net Name : Old Net Name=M_H1 New Net Name=PA_HI
+Change Net Name : Old Net Name=M_H2 New Net Name=PB_HI
+Change Net Name : Old Net Name=M_H3 New Net Name=PC_HI
+Change Net Name : Old Net Name=M_L1 New Net Name=PA_LO
+Change Net Name : Old Net Name=M_L2 New Net Name=PB_LO
+Change Net Name : Old Net Name=M_L3 New Net Name=PC_LO
+Change Net Name : Old Net Name=PHASE_3 New Net Name=PHASE_C
+Added Pin To Net: NetName=PA_AGND_F Pin=C?-1
+Added Pin To Net: NetName=PA_AGND_F Pin=R57-1
+Added Pin To Net: NetName=PA_AGND_F Pin=U3-12
+Added Net: Name=PA_AGND_F
+Added Pin To Net: NetName=PA_AGND Pin=R57-2
+Added Net: Name=PA_AGND
+Added Pin To Net: NetName=PA_SOURCE_F Pin=C?-2
+Added Pin To Net: NetName=PA_SOURCE_F Pin=R57-1
+Added Pin To Net: NetName=PA_SOURCE_F Pin=U3-11
+Added Net: Name=PA_SOURCE_F
+Added Pin To Net: NetName=PA_SOURCE Pin=Q2-3
+Added Pin To Net: NetName=PA_SOURCE Pin=R30-1
+Added Pin To Net: NetName=PA_SOURCE Pin=R57-2
+Added Net: Name=PA_SOURCE
+Added Pin To Net: NetName=PB_AGND_F Pin=C?-1
+Added Pin To Net: NetName=PB_AGND_F Pin=R57-1
+Added Pin To Net: NetName=PB_AGND_F Pin=U3-13
+Added Net: Name=PB_AGND_F
+Added Pin To Net: NetName=PB_AGND Pin=R57-2
+Added Net: Name=PB_AGND
+Added Pin To Net: NetName=PB_SOURCE_F Pin=C?-2
+Added Pin To Net: NetName=PB_SOURCE_F Pin=R57-1
+Added Pin To Net: NetName=PB_SOURCE_F Pin=U3-14
+Added Net: Name=PB_SOURCE_F
+Added Pin To Net: NetName=PB_SOURCE Pin=Q4-3
+Added Pin To Net: NetName=PB_SOURCE Pin=R36-1
+Added Pin To Net: NetName=PB_SOURCE Pin=R57-2
+Added Net: Name=PB_SOURCE
+Added Pin To Net: NetName=PC_AGND_F Pin=C?-1
+Added Pin To Net: NetName=PC_AGND_F Pin=R57-1
+Added Pin To Net: NetName=PC_AGND_F Pin=U3-22
+Added Net: Name=PC_AGND_F
+Added Pin To Net: NetName=PC_AGND Pin=R57-2
+Added Net: Name=PC_AGND
+Added Pin To Net: NetName=PC_SOURCE_F Pin=C?-2
+Added Pin To Net: NetName=PC_SOURCE_F Pin=R57-1
+Added Pin To Net: NetName=PC_SOURCE_F Pin=U3-21
+Added Net: Name=PC_SOURCE_F
+Added Pin To Net: NetName=PC_SOURCE Pin=Q6-3
+Added Pin To Net: NetName=PC_SOURCE Pin=R46-1
+Added Pin To Net: NetName=PC_SOURCE Pin=R57-2
+Added Net: Name=PC_SOURCE
+Added Member To Class: ClassName=Vesc Member=Component C? C0402C222J3RACTU
+Added Member To Class: ClassName=Vesc Member=Component C? C0402C222J3RACTU
+Added Member To Class: ClassName=Vesc Member=Component C? C0402C222J3RACTU
+Added Member To Class: ClassName=Vesc Member=Component R57 ERJ-2RKF1000X
+Added Member To Class: ClassName=Vesc Member=Component R57 ERJ-2RKF1000X
+Added Member To Class: ClassName=Vesc Member=Component R57 ERJ-2RKF1000X
+Added Member To Class: ClassName=Vesc Member=Component R57 ERJ-2RKF1000X
+Added Member To Class: ClassName=Vesc Member=Component R57 ERJ-2RKF1000X

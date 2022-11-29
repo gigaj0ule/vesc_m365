@@ -1,0 +1,75 @@
+Change Physical Footprint: Designator=C4 Old Footprint=CAP 0402 New Footprint=CAP 0402
+Change Physical Footprint: Designator=C5 Old Footprint=CAP 0402 New Footprint=CAP 0402
+Change Physical Footprint: Designator=C6 Old Footprint=CAP 0402 New Footprint=CAP 0402
+Change Physical Footprint: Designator=C8 Old Footprint=CAP 0402 New Footprint=CAP 0402
+Change Physical Footprint: Designator=C10 Old Footprint=CAP 0402 New Footprint=CAP 0402
+Change Physical Footprint: Designator=C11 Old Footprint=CAP 0402 New Footprint=CAP 0402
+Change Physical Footprint: Designator=C12 Old Footprint=CAP 0402 New Footprint=CAP 0402
+Change Physical Footprint: Designator=C13 Old Footprint=CAP 0402 New Footprint=CAP 0402
+Change Physical Footprint: Designator=C14 Old Footprint=CAP 0402 New Footprint=CAP 0402
+Change Physical Footprint: Designator=C15 Old Footprint=CAP 0402 New Footprint=CAP 0402
+Change Physical Footprint: Designator=C16 Old Footprint=CAP 0402 New Footprint=CAP 0402
+Change Physical Footprint: Designator=C17 Old Footprint=CAP 0402 New Footprint=CAP 0402
+Change Physical Footprint: Designator=C18 Old Footprint=CAP 0402 New Footprint=CAP 0402
+Change Physical Footprint: Designator=C20 Old Footprint=CAP 0402 New Footprint=CAP 0402
+Change Physical Footprint: Designator=C21 Old Footprint=CAP 0402 New Footprint=CAP 0402
+Change Physical Footprint: Designator=C22 Old Footprint=CAP 0603 New Footprint=CAP 0603
+Change Physical Footprint: Designator=C23 Old Footprint=CAP 0402 New Footprint=CAP 0402
+Change Physical Footprint: Designator=C24 Old Footprint=CAP 0402 New Footprint=CAP 0402
+Change Physical Footprint: Designator=C25 Old Footprint=CAP 0805 New Footprint=CAP 0805
+Change Physical Footprint: Designator=C27 Old Footprint=CAP 0402 New Footprint=CAP 0402
+Change Physical Footprint: Designator=C29 Old Footprint=CAP 0603 New Footprint=CAP 0603
+Change Physical Footprint: Designator=C31 Old Footprint=CAP 0402 New Footprint=CAP 0402
+Change Physical Footprint: Designator=C32 Old Footprint=CAP 0402 New Footprint=CAP 0402
+Change Physical Footprint: Designator=C33 Old Footprint=CAP 0805 New Footprint=CAP 0805
+Change Physical Footprint: Designator=C35 Old Footprint=CAP 0402 New Footprint=CAP 0402
+Change Physical Footprint: Designator=C38 Old Footprint=CAP 0402 New Footprint=CAP 0402
+Change Physical Footprint: Designator=C? Old Footprint=CAP 0402 New Footprint=CAP 0402
+Change Physical Footprint: Designator=C? Old Footprint=CAP 0402 New Footprint=CAP 0402
+Change Physical Footprint: Designator=C? Old Footprint=CAP 0402 New Footprint=CAP 0402
+Change Physical Footprint: Designator=D1 Old Footprint=Diode 0603 New Footprint=Diode 0603
+Change Physical Footprint: Designator=D2 Old Footprint=Diode 0603 New Footprint=Diode 0603
+Change Physical Footprint: Designator=D4 Old Footprint=SOD-323/SC76 New Footprint=SOD-323/SC76
+Change Physical Footprint: Designator=L1 Old Footprint=SRN6028 New Footprint=SRN6028
+Change Physical Footprint: Designator=Q1 Old Footprint=TO-263-3 New Footprint=TO-263-3
+Change Physical Footprint: Designator=Q3 Old Footprint=TO-263-3 New Footprint=TO-263-3
+Change Physical Footprint: Designator=Q5 Old Footprint=TO-263-3 New Footprint=TO-263-3
+Change Physical Footprint: Designator=R0 Old Footprint=RES 0402 New Footprint=RES 0402
+Change Physical Footprint: Designator=R2 Old Footprint=RES 0402 New Footprint=RES 0402
+Change Physical Footprint: Designator=R7 Old Footprint=RES 0402 New Footprint=RES 0402
+Change Physical Footprint: Designator=R8 Old Footprint=RES 0402 New Footprint=RES 0402
+Change Physical Footprint: Designator=R9 Old Footprint=RES 0402 New Footprint=RES 0402
+Change Physical Footprint: Designator=R10 Old Footprint=RES 0402 New Footprint=RES 0402
+Change Physical Footprint: Designator=R11 Old Footprint=RES 0402 New Footprint=RES 0402
+Change Physical Footprint: Designator=R12 Old Footprint=RES 0402 New Footprint=RES 0402
+Change Physical Footprint: Designator=R13 Old Footprint=RES 0402 New Footprint=RES 0402
+Change Physical Footprint: Designator=R17 Old Footprint=RES 0402 New Footprint=RES 0402
+Change Physical Footprint: Designator=R23 Old Footprint=RES 0402 New Footprint=RES 0402
+Change Physical Footprint: Designator=R24 Old Footprint=RES 0402 New Footprint=RES 0402
+Change Physical Footprint: Designator=R26 Old Footprint=RES 0402 New Footprint=RES 0402
+Change Physical Footprint: Designator=R27 Old Footprint=RES 0402 New Footprint=RES 0402
+Change Physical Footprint: Designator=R28 Old Footprint=RES 0402 New Footprint=RES 0402
+Change Physical Footprint: Designator=R29 Old Footprint=RES 0402 New Footprint=RES 0402
+Change Physical Footprint: Designator=R32 Old Footprint=RES 0402 New Footprint=RES 0402
+Change Physical Footprint: Designator=R33 Old Footprint=RES 0402 New Footprint=RES 0402
+Change Physical Footprint: Designator=R34 Old Footprint=RES 0402 New Footprint=RES 0402
+Change Physical Footprint: Designator=R35 Old Footprint=RES 0402 New Footprint=RES 0402
+Change Physical Footprint: Designator=R37 Old Footprint=RES 0402 New Footprint=RES 0402
+Change Physical Footprint: Designator=R38 Old Footprint=RES 0402 New Footprint=RES 0402
+Change Physical Footprint: Designator=R42 Old Footprint=RES 0402 New Footprint=RES 0402
+Change Physical Footprint: Designator=R43 Old Footprint=RES 0402 New Footprint=RES 0402
+Change Physical Footprint: Designator=R46 Old Footprint=RES 0402 New Footprint=RES 0402
+Change Physical Footprint: Designator=R57 Old Footprint=RES 0402 New Footprint=RES 0402
+Change Physical Footprint: Designator=R57 Old Footprint=RES 0402 New Footprint=RES 0402
+Change Physical Footprint: Designator=R57 Old Footprint=RES 0402 New Footprint=RES 0402
+Change Physical Footprint: Designator=R57 Old Footprint=RES 0402 New Footprint=RES 0402
+Change Physical Footprint: Designator=R57 Old Footprint=RES 0402 New Footprint=RES 0402
+Change Physical Footprint: Designator=R57 Old Footprint=RES 0402 New Footprint=RES 0402
+Change Physical Footprint: Designator=R60 Old Footprint=RES 0402 New Footprint=RES 0402
+Change Physical Footprint: Designator=R69 Old Footprint=RES 0402 New Footprint=RES 0402
+Change Physical Footprint: Designator=R100 Old Footprint=RES 2512 New Footprint=RES 2512
+Change Physical Footprint: Designator=R200 Old Footprint=RES 2512 New Footprint=RES 2512
+Change Physical Footprint: Designator=R300 Old Footprint=RES 2512 New Footprint=RES 2512
+Change Physical Footprint: Designator=U1 Old Footprint=QFP-64 - P0.5MM New Footprint=QFP-64 - P0.5MM
+Change Physical Footprint: Designator=U2 Old Footprint=SOT-23-5 New Footprint=SOT-23-5
+Change Physical Footprint: Designator=U3 Old Footprint=QFN-48 - P0.5MM New Footprint=QFN-48 - P0.5MM

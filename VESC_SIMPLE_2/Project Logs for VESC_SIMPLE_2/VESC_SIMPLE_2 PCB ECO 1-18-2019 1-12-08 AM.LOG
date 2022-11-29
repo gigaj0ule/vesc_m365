@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=C22B-1
+Removed Pin From Net: NetName=GND Pin=C23B-1
+Removed Pin From Net: NetName=VCC_3V3 Pin=C33B-1
+Removed Pin From Net: NetName=GND Pin=C33B-2
+Removed Pin From Net: NetName=GND Pin=D3B-1
+Removed Pin From Net: NetName=VCC_3V3 Pin=L1B-2
+Removed Pin From Net: NetName=GND Pin=R33B-1
+Removed Pin From Net: NetName=VCC_3V3 Pin=R34B-2
+Removed Pin From Net: NetName=VCC_NV_SD Pin=R35B-1
+Removed Pin From Net: NetName=V_SUPPLY Pin=R35B-2
+Removed Pin From Net: NetName=GND Pin=R36B-2
+Removed Member From Class: ClassName=Vesc_Simple_2 Member=C21B
+Removed Member From Class: ClassName=Vesc_Simple_2 Member=C33B
+Removed Member From Class: ClassName=Vesc_Simple_2 Member=D3B
+Removed Member From Class: ClassName=Vesc_Simple_2 Member=L1B
+Removed Member From Class: ClassName=Vesc_Simple_2 Member=R33B
+Removed Member From Class: ClassName=Vesc_Simple_2 Member=R34B
+Removed Member From Class: ClassName=Vesc_Simple_2 Member=R35B
+Removed Member From Class: ClassName=Vesc_Simple_2 Member=R36B
+Added Pin To Net: NetName=NetC22B_1 Pin=C22B-1
+Added Pin To Net: NetName=NetC22B_1 Pin=C23B-1
+Added Net: Name=NetC22B_1

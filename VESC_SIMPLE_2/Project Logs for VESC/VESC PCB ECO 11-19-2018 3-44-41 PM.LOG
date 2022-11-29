@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=Q1A Old Footprint=VSONP-8 New Footprint=VSONP-8
+Change Component Designator: OldDesignator=Q1A NewDesignator=Q1
+Change Component Designator: OldDesignator=Q2A NewDesignator=Q2
+Change Net Name : Old Net Name=NetQ1A_4 New Net Name=NetQ1_4
+Change Net Name : Old Net Name=NetQ2A_1 New Net Name=NetQ2_1

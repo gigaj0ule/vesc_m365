@@ -1,0 +1,127 @@
+Removed Pin From Net: NetName=PHASE_A Pin=Q1-1
+Removed Pin From Net: NetName=PHASE_A Pin=Q1-2
+Removed Pin From Net: NetName=PHASE_A Pin=Q1-3
+Removed Pin From Net: NetName=NetQ1_4 Pin=Q1-4
+Removed Pin From Net: NetName=V_SUPPLY Pin=Q1-5
+Removed Pin From Net: NetName=V_SUPPLY Pin=Q1-6
+Removed Pin From Net: NetName=V_SUPPLY Pin=Q1-7
+Removed Pin From Net: NetName=V_SUPPLY Pin=Q1-8
+Removed Pin From Net: NetName=V_SUPPLY Pin=Q1-9
+Removed Pin From Net: NetName=NetQ2_1 Pin=Q2-1
+Removed Pin From Net: NetName=PHASE_A Pin=Q2-2
+Removed Pin From Net: NetName=PA_SOURCE Pin=Q2-3
+Removed Pin From Net: NetName=PHASE_B Pin=Q3-1
+Removed Pin From Net: NetName=PHASE_B Pin=Q3-2
+Removed Pin From Net: NetName=PHASE_B Pin=Q3-3
+Removed Pin From Net: NetName=NetQ3_4 Pin=Q3-4
+Removed Pin From Net: NetName=V_SUPPLY Pin=Q3-5
+Removed Pin From Net: NetName=V_SUPPLY Pin=Q3-6
+Removed Pin From Net: NetName=V_SUPPLY Pin=Q3-7
+Removed Pin From Net: NetName=V_SUPPLY Pin=Q3-8
+Removed Pin From Net: NetName=V_SUPPLY Pin=Q3-9
+Removed Pin From Net: NetName=NetQ4_1 Pin=Q4-1
+Removed Pin From Net: NetName=PHASE_B Pin=Q4-2
+Removed Pin From Net: NetName=PB_SOURCE Pin=Q4-3
+Removed Pin From Net: NetName=PHASE_C Pin=Q5-1
+Removed Pin From Net: NetName=PHASE_C Pin=Q5-2
+Removed Pin From Net: NetName=PHASE_C Pin=Q5-3
+Removed Pin From Net: NetName=NetQ5_4 Pin=Q5-4
+Removed Pin From Net: NetName=V_SUPPLY Pin=Q5-5
+Removed Pin From Net: NetName=V_SUPPLY Pin=Q5-6
+Removed Pin From Net: NetName=V_SUPPLY Pin=Q5-7
+Removed Pin From Net: NetName=V_SUPPLY Pin=Q5-8
+Removed Member From Class: ClassName=Vesc Member=Q1
+Removed Member From Class: ClassName=Vesc Member=Q2
+Removed Member From Class: ClassName=Vesc Member=Q3
+Removed Member From Class: ClassName=Vesc Member=Q4
+Removed Member From Class: ClassName=Vesc Member=Q5
+Added Component: Designator=Q1A(VSONP-8)
+Added Component: Designator=Q2A(TO-220)
+Added Component: Designator=Q3A(VSONP-8)
+Added Component: Designator=Q4A(TO-220)
+Added Component: Designator=Q5A(VSONP-8)
+Added Pin To Net: NetName=PHASE_A Pin=Q1A-1
+Added Pin To Net: NetName=PHASE_A Pin=Q1A-2
+Added Pin To Net: NetName=PHASE_A Pin=Q1A-3
+Added Pin To Net: NetName=NetQ1_4 Pin=Q1A-4
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1A-5
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1A-6
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1A-7
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1A-8
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1A-9
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2A-1
+Added Pin To Net: NetName=PHASE_A Pin=Q2A-2
+Added Pin To Net: NetName=PA_SOURCE Pin=Q2A-3
+Added Pin To Net: NetName=PHASE_B Pin=Q3A-1
+Added Pin To Net: NetName=PHASE_B Pin=Q3A-2
+Added Pin To Net: NetName=PHASE_B Pin=Q3A-3
+Added Pin To Net: NetName=NetQ3_4 Pin=Q3A-4
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-5
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-6
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-7
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-8
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3A-9
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4A-1
+Added Pin To Net: NetName=PHASE_B Pin=Q4A-2
+Added Pin To Net: NetName=PB_SOURCE Pin=Q4A-3
+Added Pin To Net: NetName=PHASE_C Pin=Q5A-1
+Added Pin To Net: NetName=PHASE_C Pin=Q5A-2
+Added Pin To Net: NetName=PHASE_C Pin=Q5A-3
+Added Pin To Net: NetName=NetQ5_4 Pin=Q5A-4
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-5
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-6
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-7
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-8
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5A-9
+Change Net Name : Old Net Name=NetQ1_4 New Net Name=NetQ1A_4
+Change Net Name : Old Net Name=NetQ2_1 New Net Name=NetQ2A_1
+Change Net Name : Old Net Name=NetQ3_4 New Net Name=NetQ3A_4
+Change Net Name : Old Net Name=NetQ4_1 New Net Name=NetQ4A_1
+Change Net Name : Old Net Name=NetQ5_4 New Net Name=NetQ5A_4
+Added Member To Class: ClassName=Vesc Member=Component Q1A CSD19531Q5A
+Added Member To Class: ClassName=Vesc Member=Component Q2A SUP70060E-GE3
+Added Member To Class: ClassName=Vesc Member=Component Q3A CSD19531Q5A
+Added Member To Class: ClassName=Vesc Member=Component Q4A SUP70060E-GE3
+Added Member To Class: ClassName=Vesc Member=Component Q5A CSD19531Q5A

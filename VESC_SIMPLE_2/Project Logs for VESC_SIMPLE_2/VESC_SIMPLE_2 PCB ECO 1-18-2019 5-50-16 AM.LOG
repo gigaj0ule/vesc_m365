@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MA_PC_AGND Pin=U11-3
+Removed Pin From Net: NetName=MA_PC_SOURCE Pin=U11-4
+Added Pin To Net: NetName=MA_PC_AGND_F Pin=U11-3
+Added Pin To Net: NetName=MA_PC_SOURCE_F Pin=U11-4

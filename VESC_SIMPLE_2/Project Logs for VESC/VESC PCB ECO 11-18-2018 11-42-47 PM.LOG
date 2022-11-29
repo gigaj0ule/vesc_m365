@@ -1,0 +1,87 @@
+Removed Pin From Net: NetName=V_SUPPLY Pin=Q1-2
+Removed Pin From Net: NetName=V_SUPPLY Pin=Q3-2
+Removed Pin From Net: NetName=V_SUPPLY Pin=Q5-2
+Change Component DesignItemId : Designator=L1 Old DesignItemId=CBC3225T220KR New DesignItemId=SRN6028-330M
+Change Component DesignItemId : Designator=Q1 Old DesignItemId=IPB042N10N3GATMA1 New DesignItemId=CSD19531Q5A
+Change Component DesignItemId : Designator=Q3 Old DesignItemId=IPB042N10N3GATMA1 New DesignItemId=CSD19531Q5A
+Change Component DesignItemId : Designator=Q5 Old DesignItemId=IPB042N10N3GATMA1 New DesignItemId=CSD19531Q5A
+Change Component Footprint: Designator=L1 Old Footprint=IND 1210 New Footprint=SRN6028
+Change Component Footprint: Designator=Q1 Old Footprint=TO-263-3 New Footprint=VSONP-8
+Change Component Footprint: Designator=Q3 Old Footprint=TO-263-3 New Footprint=VSONP-8
+Change Component Footprint: Designator=Q5 Old Footprint=TO-263-3 New Footprint=VSONP-8
+Change Component Comment : Designator=L1 Old Comment=CBC3225T220KR New Comment=SRN6028-330M
+Change Component Comment : Designator=Q1 Old Comment=IPB042N10N3GATMA1 New Comment=CSD19531Q5A
+Change Component Comment : Designator=Q3 Old Comment=IPB042N10N3GATMA1 New Comment=CSD19531Q5A
+Change Component Comment : Designator=Q5 Old Comment=IPB042N10N3GATMA1 New Comment=CSD19531Q5A
+Added Pin To Net: NetName=PHASE_A Pin=Q1-1
+Added Pin To Net: NetName=PHASE_A Pin=Q1-2
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1-5
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1-6
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1-7
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1-8
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1-9
+Added Pin To Net: NetName=PHASE_B Pin=Q3-1
+Added Pin To Net: NetName=PHASE_B Pin=Q3-2
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3-5
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3-6
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3-7
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3-8
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3-9
+Added Pin To Net: NetName=PHASE_C Pin=Q5-1
+Added Pin To Net: NetName=PHASE_C Pin=Q5-2
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5-5
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5-6
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5-7
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5-8
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5-9
+Added Pin To Net: NetName=NetQ1_4 Pin=Q1-4
+Added Pin To Net: NetName=NetQ1_4 Pin=R28-2
+Added Net: Name=NetQ1_4
+Added Pin To Net: NetName=NetQ3_4 Pin=Q3-4
+Added Pin To Net: NetName=NetQ3_4 Pin=R34-2
+Added Net: Name=NetQ3_4
+Added Pin To Net: NetName=NetQ5_4 Pin=Q5-4
+Added Pin To Net: NetName=NetQ5_4 Pin=R42-2
+Added Net: Name=NetQ5_4

@@ -1,0 +1,6 @@
+Change Net Name : Old Net Name=MA_JTDI New Net Name=JTDI
+Change Net Name : Old Net Name=MAB_JTCK New Net Name=JTCK
+Change Net Name : Old Net Name=MAB_JTMS New Net Name=JTMS
+Change Net Name : Old Net Name=MAB_NJTRST New Net Name=NJTRST
+Change Net Name : Old Net Name=MB_JTDI New Net Name=MA_JTD0
+Change Net Name : Old Net Name=MB_JTDO New Net Name=JTDO

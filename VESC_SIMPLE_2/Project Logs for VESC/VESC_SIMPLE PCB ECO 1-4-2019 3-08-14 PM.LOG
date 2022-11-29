@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=MA_CURRENT_A Pin=U1A-8
+Removed Pin From Net: NetName=MA_CURRENT_B Pin=U1A-9
+Removed Pin From Net: NetName=MA_CURRENT_C Pin=U1A-10
+Removed Pin From Net: NetName=MA_AN_IN Pin=U1A-11
+Removed Pin From Net: NetName=MA_LED_GREEN Pin=U1A-26
+Removed Pin From Net: NetName=MA_LED_RED Pin=U1A-27
+Added Pin To Net: NetName=MA_AN_IN Pin=U1A-10
+Added Pin To Net: NetName=MA_CURRENT_A Pin=U1A-26
+Added Pin To Net: NetName=MA_CURRENT_C Pin=U1A-27

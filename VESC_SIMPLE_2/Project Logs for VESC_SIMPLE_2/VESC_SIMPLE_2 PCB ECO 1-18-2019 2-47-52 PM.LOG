@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=C35A-1
+Removed Pin From Net: NetName=GND Pin=C36A-1
+Removed Pin From Net: NetName=GND Pin=C37A-1
+Removed Pin From Net: NetName=GND Pin=JB-1
+Removed Pin From Net: NetName=GND Pin=Q4A-1
+Removed Pin From Net: NetName=GND Pin=Q4A-2
+Removed Pin From Net: NetName=GND Pin=Q4A-3
+Removed Pin From Net: NetName=GND Pin=U23-8
+Added Component: Designator=U2(TDFN-10)
+Added Pin To Net: NetName=PGND Pin=C35A-1
+Added Pin To Net: NetName=PGND Pin=C36A-1
+Added Pin To Net: NetName=PGND Pin=C37A-1
+Added Pin To Net: NetName=PGND Pin=JB-1
+Added Pin To Net: NetName=PGND Pin=Q4A-1
+Added Pin To Net: NetName=PGND Pin=Q4A-2
+Added Pin To Net: NetName=PGND Pin=Q4A-3
+Added Pin To Net: NetName=PGND Pin=U23-8
+Added Net: Name=PGND
+Added Member To Class: ClassName=Vesc_Simple_2 Member=Component U2 MIC4604YMT

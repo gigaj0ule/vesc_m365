@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=MA_PC4 Pin=J11-12
+Added Pin To Net: NetName=MA_PC4 Pin=U1A-24
+Added Net: Name=MA_PC4
+Added Pin To Net: NetName=MA_PC5 Pin=J11-13
+Added Pin To Net: NetName=MA_PC5 Pin=U1A-25
+Added Net: Name=MA_PC5

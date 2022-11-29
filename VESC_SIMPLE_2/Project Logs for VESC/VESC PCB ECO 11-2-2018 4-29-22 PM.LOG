@@ -1,0 +1,10 @@
+Added Component: Designator=R60(RES 0402)
+Added Component: Designator=R69(RES 0402)
+Added Pin To Net: NetName=V_SUPPLY Pin=R60-2
+Added Pin To Net: NetName=GND Pin=R69-1
+Added Pin To Net: NetName=NetR17_1 Pin=R69-2
+Added Pin To Net: NetName=NetR60_1 Pin=R60-1
+Added Pin To Net: NetName=NetR60_1 Pin=U3-47
+Added Net: Name=NetR60_1
+Added Member To Class: ClassName=Vesc Member=Component R60 ERJ-2RKF2743X
+Added Member To Class: ClassName=Vesc Member=Component R69 ERJ-2RKF2611X

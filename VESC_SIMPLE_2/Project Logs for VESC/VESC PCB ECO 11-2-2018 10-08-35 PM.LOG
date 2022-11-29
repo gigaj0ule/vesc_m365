@@ -1,0 +1,19 @@
+Added Component: Designator=R100(RES 2512)
+Added Component: Designator=R200(RES 2512)
+Added Component: Designator=R300(RES 2512)
+Added Pin To Net: NetName=PA_AGND Pin=R100-1
+Added Pin To Net: NetName=PA_SOURCE Pin=R100-2
+Added Pin To Net: NetName=PB_AGND Pin=R200-1
+Added Pin To Net: NetName=PB_SOURCE Pin=R200-2
+Added Pin To Net: NetName=PC_AGND Pin=R300-1
+Added Pin To Net: NetName=PC_SOURCE Pin=R300-2
+Added Member To Class: ClassName=Vesc Member=Component C? C0402C222J3RACTU
+Added Member To Class: ClassName=Vesc Member=Component C? C0402C222J3RACTU
+Added Member To Class: ClassName=Vesc Member=Component R57 ERJ-2RKF1000X
+Added Member To Class: ClassName=Vesc Member=Component R57 ERJ-2RKF1000X
+Added Member To Class: ClassName=Vesc Member=Component R57 ERJ-2RKF1000X
+Added Member To Class: ClassName=Vesc Member=Component R57 ERJ-2RKF1000X
+Added Member To Class: ClassName=Vesc Member=Component R57 ERJ-2RKF1000X
+Added Member To Class: ClassName=Vesc Member=Component R100 WSLF2512L5000FEA
+Added Member To Class: ClassName=Vesc Member=Component R200 WSLF2512L5000FEA
+Added Member To Class: ClassName=Vesc Member=Component R300 WSLF2512L5000FEA

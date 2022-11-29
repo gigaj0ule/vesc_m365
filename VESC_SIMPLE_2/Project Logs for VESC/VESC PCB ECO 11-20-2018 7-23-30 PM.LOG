@@ -1,0 +1,396 @@
+Added Pin To Net: NetName=NetC1B_1 Pin=C1B-1
+Added Pin To Net: NetName=GND Pin=C1B-2
+Added Pin To Net: NetName=NetC2B_1 Pin=C2B-1
+Added Pin To Net: NetName=GND Pin=C2B-2
+Added Pin To Net: NetName=MB_NRST Pin=C3B-1
+Added Pin To Net: NetName=GND Pin=C3B-2
+Added Pin To Net: NetName=VCC Pin=C4B-1
+Added Pin To Net: NetName=GND Pin=C4B-2
+Added Pin To Net: NetName=VCC Pin=C5B-1
+Added Pin To Net: NetName=GND Pin=C5B-2
+Added Pin To Net: NetName=VCC Pin=C6B-1
+Added Pin To Net: NetName=GND Pin=C6B-2
+Added Pin To Net: NetName=VCC Pin=C7B-1
+Added Pin To Net: NetName=GND Pin=C7B-2
+Added Pin To Net: NetName=VCC Pin=C8B-1
+Added Pin To Net: NetName=GND Pin=C8B-2
+Added Pin To Net: NetName=VCC Pin=C9B-1
+Added Pin To Net: NetName=GND Pin=C9B-2
+Added Pin To Net: NetName=VCC Pin=C10B-1
+Added Pin To Net: NetName=GND Pin=C10B-2
+Added Pin To Net: NetName=NetC11B_1 Pin=C11B-1
+Added Pin To Net: NetName=GND Pin=C11B-2
+Added Pin To Net: NetName=GND Pin=C12B-1
+Added Pin To Net: NetName=MB_HALL_3 Pin=C12B-2
+Added Pin To Net: NetName=GND Pin=C13B-1
+Added Pin To Net: NetName=MB_HALL_2 Pin=C13B-2
+Added Pin To Net: NetName=GND Pin=C14B-1
+Added Pin To Net: NetName=MB_HALL_1 Pin=C14B-2
+Added Pin To Net: NetName=MB_PA_AGND_F Pin=C15B-1
+Added Pin To Net: NetName=MB_PA_SOURCE_F Pin=C15B-2
+Added Pin To Net: NetName=MB_PB_AGND_F Pin=C16B-1
+Added Pin To Net: NetName=MB_PB_SOURCE_F Pin=C16B-2
+Added Pin To Net: NetName=MB_PC_AGND_F Pin=C17B-1
+Added Pin To Net: NetName=MB_PC_SOURCE_F Pin=C17B-2
+Added Pin To Net: NetName=NetC18B_1 Pin=C18B-1
+Added Pin To Net: NetName=GND Pin=C18B-2
+Added Pin To Net: NetName=NetC19B_1 Pin=C19B-1
+Added Pin To Net: NetName=NetC19B_2 Pin=C19B-2
+Added Pin To Net: NetName=V_SUPPLY Pin=C20B-1
+Added Pin To Net: NetName=NetC20B_2 Pin=C20B-2
+Added Pin To Net: NetName=NetC21B_1 Pin=C21B-1
+Added Pin To Net: NetName=V_SUPPLY Pin=C21B-2
+Added Pin To Net: NetName=GND Pin=C22B-1
+Added Pin To Net: NetName=NetC22B_2 Pin=C22B-2
+Added Pin To Net: NetName=GND Pin=C23B-1
+Added Pin To Net: NetName=MB_DVDD Pin=C23B-2
+Added Pin To Net: NetName=NetC30B_1 Pin=C30B-1
+Added Pin To Net: NetName=GND Pin=C30B-2
+Added Pin To Net: NetName=MB_V_OUT Pin=C33B-1
+Added Pin To Net: NetName=GND Pin=C33B-2
+Added Pin To Net: NetName=VCC Pin=C34B-1
+Added Pin To Net: NetName=GND Pin=C34B-2
+Added Pin To Net: NetName=NetD1B_1 Pin=D1B-1
+Added Pin To Net: NetName=GND Pin=D1B-2
+Added Pin To Net: NetName=NetD2B_1 Pin=D2B-1
+Added Pin To Net: NetName=GND Pin=D2B-2
+Added Pin To Net: NetName=GND Pin=D3B-1
+Added Pin To Net: NetName=NetD3B_2 Pin=D3B-2
+Added Pin To Net: NetName=MB_PHASE_A Pin=JAB-1
+Added Pin To Net: NetName=MB_PHASE_A Pin=JAB-1
+Added Pin To Net: NetName=MB_PHASE_B Pin=JBB-1
+Added Pin To Net: NetName=MB_PHASE_B Pin=JBB-1
+Added Pin To Net: NetName=MB_PHASE_C Pin=JCB-1
+Added Pin To Net: NetName=MB_PHASE_C Pin=JCB-1
+Added Pin To Net: NetName=NetD3B_2 Pin=L1B-1
+Added Pin To Net: NetName=MB_V_OUT Pin=L1B-2
+Added Pin To Net: NetName=MB_PHASE_A Pin=Q1B-1
+Added Pin To Net: NetName=MB_PHASE_A Pin=Q1B-2
+Added Pin To Net: NetName=MB_PHASE_A Pin=Q1B-3
+Added Pin To Net: NetName=NetQ1B_4 Pin=Q1B-4
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1B-5
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1B-6
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1B-7
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1B-8
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1B-9
+Added Pin To Net: NetName=NetQ2B_1 Pin=Q2B-1
+Added Pin To Net: NetName=MB_PHASE_A Pin=Q2B-2
+Added Pin To Net: NetName=MB_PA_SOURCE Pin=Q2B-3
+Added Pin To Net: NetName=MB_PHASE_B Pin=Q3B-1
+Added Pin To Net: NetName=MB_PHASE_B Pin=Q3B-2
+Added Pin To Net: NetName=MB_PHASE_B Pin=Q3B-3
+Added Pin To Net: NetName=NetQ3B_4 Pin=Q3B-4
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3B-5
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3B-6
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3B-7
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3B-8
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3B-9
+Added Pin To Net: NetName=NetQ4B_1 Pin=Q4B-1
+Added Pin To Net: NetName=MB_PHASE_B Pin=Q4B-2
+Added Pin To Net: NetName=MB_PB_SOURCE Pin=Q4B-3
+Added Pin To Net: NetName=MB_PHASE_C Pin=Q5B-1
+Added Pin To Net: NetName=MB_PHASE_C Pin=Q5B-2
+Added Pin To Net: NetName=MB_PHASE_C Pin=Q5B-3
+Added Pin To Net: NetName=NetQ5B_4 Pin=Q5B-4
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5B-5
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5B-6
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5B-7
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5B-8
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5B-9
+Added Pin To Net: NetName=V_SUPPLY Pin=Q5B-9
+Added Pin To Net: NetName=NetQ6B_1 Pin=Q6B-1
+Added Pin To Net: NetName=MB_PHASE_C Pin=Q6B-2
+Added Pin To Net: NetName=MB_PC_SOURCE Pin=Q6B-3
+Added Pin To Net: NetName=MB_PA_HI Pin=R1B-1
+Added Pin To Net: NetName=NetQ1B_4 Pin=R1B-2
+Added Pin To Net: NetName=MB_PA_LO Pin=R2B-1
+Added Pin To Net: NetName=NetQ2B_1 Pin=R2B-2
+Added Pin To Net: NetName=MB_PB_HI Pin=R3B-1
+Added Pin To Net: NetName=NetQ3B_4 Pin=R3B-2
+Added Pin To Net: NetName=MB_PB_LO Pin=R4B-1
+Added Pin To Net: NetName=NetQ4B_1 Pin=R4B-2
+Added Pin To Net: NetName=MB_PC_HI Pin=R5B-1
+Added Pin To Net: NetName=NetQ5B_4 Pin=R5B-2
+Added Pin To Net: NetName=MB_PC_LO Pin=R6B-1
+Added Pin To Net: NetName=NetQ6B_1 Pin=R6B-2
+Added Pin To Net: NetName=MB_PA_SOURCE Pin=R7B-1
+Added Pin To Net: NetName=NetQ2B_1 Pin=R7B-2
+Added Pin To Net: NetName=MB_PB_SOURCE Pin=R8B-1
+Added Pin To Net: NetName=NetQ4B_1 Pin=R8B-2
+Added Pin To Net: NetName=MB_PC_SOURCE Pin=R9B-1
+Added Pin To Net: NetName=NetQ6B_1 Pin=R9B-2
+Added Pin To Net: NetName=MB_PA_AGND Pin=R10B-1
+Added Pin To Net: NetName=MB_PA_SOURCE Pin=R10B-2
+Added Pin To Net: NetName=MB_PB_AGND Pin=R11B-1
+Added Pin To Net: NetName=MB_PB_SOURCE Pin=R11B-2
+Added Pin To Net: NetName=MB_PC_AGND Pin=R12B-1
+Added Pin To Net: NetName=MB_PC_SOURCE Pin=R12B-2
+Added Pin To Net: NetName=MB_HALL3_IN Pin=R13B-1
+Added Pin To Net: NetName=VCC Pin=R13B-2
+Added Pin To Net: NetName=MB_HALL2_IN Pin=R14B-1
+Added Pin To Net: NetName=VCC Pin=R14B-2
+Added Pin To Net: NetName=MB_HALL1_IN Pin=R15B-1
+Added Pin To Net: NetName=VCC Pin=R15B-2
+Added Pin To Net: NetName=MB_HALL3_IN Pin=R16B-1
+Added Pin To Net: NetName=MB_HALL_3 Pin=R16B-2
+Added Pin To Net: NetName=MB_HALL2_IN Pin=R17B-1
+Added Pin To Net: NetName=MB_HALL_2 Pin=R17B-2
+Added Pin To Net: NetName=MB_HALL1_IN Pin=R18B-1
+Added Pin To Net: NetName=MB_HALL_1 Pin=R18B-2
+Added Pin To Net: NetName=MB_VOLTAGE_C Pin=R19B-1
+Added Pin To Net: NetName=MB_PHASE_C Pin=R19B-2
+Added Pin To Net: NetName=GND Pin=R20B-1
+Added Pin To Net: NetName=MB_VOLTAGE_C Pin=R20B-2
+Added Pin To Net: NetName=MB_VOLTAGE_B Pin=R21B-1
+Added Pin To Net: NetName=MB_PHASE_B Pin=R21B-2
+Added Pin To Net: NetName=GND Pin=R22B-1
+Added Pin To Net: NetName=MB_VOLTAGE_B Pin=R22B-2
+Added Pin To Net: NetName=MB_VOLTAGE_A Pin=R23B-1
+Added Pin To Net: NetName=MB_PHASE_A Pin=R23B-2
+Added Pin To Net: NetName=GND Pin=R24B-1
+Added Pin To Net: NetName=MB_VOLTAGE_A Pin=R24B-2
+Added Pin To Net: NetName=MB_PA_SOURCE_F Pin=R25B-1
+Added Pin To Net: NetName=MB_PA_SOURCE Pin=R25B-2
+Added Pin To Net: NetName=MB_PA_AGND_F Pin=R26B-1
+Added Pin To Net: NetName=MB_PA_AGND Pin=R26B-2
+Added Pin To Net: NetName=MB_PB_SOURCE_F Pin=R27B-1
+Added Pin To Net: NetName=MB_PB_SOURCE Pin=R27B-2
+Added Pin To Net: NetName=MB_PB_AGND_F Pin=R28B-1
+Added Pin To Net: NetName=MB_PB_AGND Pin=R28B-2
+Added Pin To Net: NetName=MB_PC_SOURCE_F Pin=R29B-1
+Added Pin To Net: NetName=MB_PC_SOURCE Pin=R29B-2
+Added Pin To Net: NetName=MB_PC_AGND_F Pin=R30B-1
+Added Pin To Net: NetName=MB_PC_AGND Pin=R30B-2
+Added Pin To Net: NetName=NetD2B_1 Pin=R31B-1
+Added Pin To Net: NetName=MB_LED_RED Pin=R31B-2
+Added Pin To Net: NetName=NetD1B_1 Pin=R32B-1
+Added Pin To Net: NetName=MB_LED_GREEN Pin=R32B-2
+Added Pin To Net: NetName=GND Pin=R33B-1
+Added Pin To Net: NetName=NetR33B_2 Pin=R33B-2
+Added Pin To Net: NetName=NetR33B_2 Pin=R34B-1
+Added Pin To Net: NetName=MB_V_OUT Pin=R34B-2
+Added Pin To Net: NetName=NetR35B_1 Pin=R35B-1
+Added Pin To Net: NetName=V_SUPPLY Pin=R35B-2
+Added Pin To Net: NetName=NetR36B_1 Pin=R36B-1
+Added Pin To Net: NetName=GND Pin=R36B-2
+Added Pin To Net: NetName=NetR37B_1 Pin=R37B-1
+Added Pin To Net: NetName=GND Pin=R37B-2
+Added Pin To Net: NetName=VCC Pin=U1B-1
+Added Pin To Net: NetName=NetC1B_1 Pin=U1B-5
+Added Pin To Net: NetName=NetC2B_1 Pin=U1B-6
+Added Pin To Net: NetName=MB_NRST Pin=U1B-7
+Added Pin To Net: NetName=MB_CURRENT_A Pin=U1B-8
+Added Pin To Net: NetName=MB_CURRENT_B Pin=U1B-9
+Added Pin To Net: NetName=MB_CURRENT_C Pin=U1B-10
+Added Pin To Net: NetName=MB_TEMP_MOTOR Pin=U1B-11
+Added Pin To Net: NetName=GND Pin=U1B-12
+Added Pin To Net: NetName=VCC Pin=U1B-13
+Added Pin To Net: NetName=MB_VOLTAGE_A Pin=U1B-14
+Added Pin To Net: NetName=MB_VOLTAGE_B Pin=U1B-15
+Added Pin To Net: NetName=MB_VOLTAGE_C Pin=U1B-16
+Added Pin To Net: NetName=MB_ADC_TEMP Pin=U1B-17
+Added Pin To Net: NetName=GND Pin=U1B-18
+Added Pin To Net: NetName=VCC Pin=U1B-19
+Added Pin To Net: NetName=MB_RX_SDA_NSS Pin=U1B-20
+Added Pin To Net: NetName=MB_SCK_ADC_EXT Pin=U1B-21
+Added Pin To Net: NetName=MB_MISO_ADC_EXT2 Pin=U1B-22
+Added Pin To Net: NetName=MB_TX_SCL_MOSI Pin=U1B-23
+Added Pin To Net: NetName=MB_LED_GREEN Pin=U1B-26
+Added Pin To Net: NetName=MB_LED_RED Pin=U1B-27
+Added Pin To Net: NetName=MB_TX_SCL_MOSI Pin=U1B-29
+Added Pin To Net: NetName=MB_RX_SDA_NSS Pin=U1B-30
+Added Pin To Net: NetName=NetC11B_1 Pin=U1B-31
+Added Pin To Net: NetName=VCC Pin=U1B-32
+Added Pin To Net: NetName=MB_L1 Pin=U1B-34
+Added Pin To Net: NetName=MB_L2 Pin=U1B-35
+Added Pin To Net: NetName=MB_L3 Pin=U1B-36
+Added Pin To Net: NetName=MB_HALL_1 Pin=U1B-37
+Added Pin To Net: NetName=MB_HALL_2 Pin=U1B-38
+Added Pin To Net: NetName=MB_HALL_3 Pin=U1B-39
+Added Pin To Net: NetName=MB_H1 Pin=U1B-41
+Added Pin To Net: NetName=MB_H2 Pin=U1B-42
+Added Pin To Net: NetName=MB_H3 Pin=U1B-43
+Added Pin To Net: NetName=MB_USB_DM Pin=U1B-44
+Added Pin To Net: NetName=MB_USB_DP Pin=U1B-45
+Added Pin To Net: NetName=MB_JTMS Pin=U1B-46
+Added Pin To Net: NetName=NetC30B_1 Pin=U1B-47
+Added Pin To Net: NetName=VCC Pin=U1B-48
+Added Pin To Net: NetName=MB_JTCK Pin=U1B-49
+Added Pin To Net: NetName=MB_JTDI Pin=U1B-50
+Added Pin To Net: NetName=MB_FAULT Pin=U1B-53
+Added Pin To Net: NetName=MB_JTDO Pin=U1B-55
+Added Pin To Net: NetName=MB_NJTRST Pin=U1B-56
+Added Pin To Net: NetName=MB_EN_GATE Pin=U1B-57
+Added Pin To Net: NetName=MB_SERVO Pin=U1B-58
+Added Pin To Net: NetName=GND Pin=U1B-60
+Added Pin To Net: NetName=MB_CAN_RX Pin=U1B-61
+Added Pin To Net: NetName=M_ACAN_TX Pin=U1B-62
+Added Pin To Net: NetName=GND Pin=U1B-63
+Added Pin To Net: NetName=VCC Pin=U1B-64
+Added Pin To Net: NetName=GND Pin=U3B-0
+Added Pin To Net: NetName=GND Pin=U3B-1
+Added Pin To Net: NetName=NetC18B_1 Pin=U3B-2
+Added Pin To Net: NetName=NetC19B_1 Pin=U3B-3
+Added Pin To Net: NetName=NetC19B_2 Pin=U3B-4
+Added Pin To Net: NetName=V_SUPPLY Pin=U3B-5
+Added Pin To Net: NetName=V_SUPPLY Pin=U3B-6
+Added Pin To Net: NetName=NetC20B_2 Pin=U3B-7
+Added Pin To Net: NetName=MB_PA_HI Pin=U3B-8
+Added Pin To Net: NetName=MB_PHASE_A Pin=U3B-9
+Added Pin To Net: NetName=MB_PA_LO Pin=U3B-10
+Added Pin To Net: NetName=MB_PA_SOURCE_F Pin=U3B-11
+Added Pin To Net: NetName=MB_PA_AGND_F Pin=U3B-12
+Added Pin To Net: NetName=MB_PB_AGND_F Pin=U3B-13
+Added Pin To Net: NetName=MB_PB_SOURCE_F Pin=U3B-14
+Added Pin To Net: NetName=MB_PB_LO Pin=U3B-15
+Added Pin To Net: NetName=MB_PHASE_B Pin=U3B-16
+Added Pin To Net: NetName=MB_PB_HI Pin=U3B-17
+Added Pin To Net: NetName=MB_PC_HI Pin=U3B-18
+Added Pin To Net: NetName=MB_PHASE_C Pin=U3B-19
+Added Pin To Net: NetName=MB_PC_LO Pin=U3B-20
+Added Pin To Net: NetName=MB_PC_SOURCE_F Pin=U3B-21
+Added Pin To Net: NetName=MB_PC_AGND_F Pin=U3B-22
+Added Pin To Net: NetName=MB_CURRENT_C Pin=U3B-23
+Added Pin To Net: NetName=MB_CURRENT_B Pin=U3B-24
+Added Pin To Net: NetName=MB_CURRENT_A Pin=U3B-25
+Added Pin To Net: NetName=VCC Pin=U3B-26
+Added Pin To Net: NetName=GND Pin=U3B-27
+Added Pin To Net: NetName=MB_DVDD Pin=U3B-29
+Added Pin To Net: NetName=MB_DVDD Pin=U3B-30
+Added Pin To Net: NetName=MB_DVDD Pin=U3B-31
+Added Pin To Net: NetName=NetR37B_1 Pin=U3B-32
+Added Pin To Net: NetName=MB_EN_GATE Pin=U3B-33
+Added Pin To Net: NetName=MB_H1 Pin=U3B-34
+Added Pin To Net: NetName=MB_L1 Pin=U3B-35
+Added Pin To Net: NetName=MB_H2 Pin=U3B-36
+Added Pin To Net: NetName=MB_L2 Pin=U3B-37
+Added Pin To Net: NetName=MB_H3 Pin=U3B-38
+Added Pin To Net: NetName=MB_L3 Pin=U3B-39
+Added Pin To Net: NetName=MB_DVDD Pin=U3B-40
+Added Pin To Net: NetName=GND Pin=U3B-41
+Added Pin To Net: NetName=NetD3B_2 Pin=U3B-42
+Added Pin To Net: NetName=V_SUPPLY Pin=U3B-43
+Added Pin To Net: NetName=NetC22B_2 Pin=U3B-44
+Added Pin To Net: NetName=NetC21B_1 Pin=U3B-45
+Added Pin To Net: NetName=NetR36B_1 Pin=U3B-46
+Added Pin To Net: NetName=NetR35B_1 Pin=U3B-47
+Added Pin To Net: NetName=NetR33B_2 Pin=U3B-48
+Added Member To Class: ClassName=Vesc Member=Component C1B C0402C180K5GACTU
+Added Member To Class: ClassName=Vesc Member=Component C2B C0402C180K5GACTU
+Added Member To Class: ClassName=Vesc Member=Component C3B C0402C104K3RACTU
+Added Member To Class: ClassName=Vesc Member=Component C4B C0402C225M8PACTU
+Added Member To Class: ClassName=Vesc Member=Component C5B C0402C225M8PACTU
+Added Member To Class: ClassName=Vesc Member=Component C6B C0402C225M8PACTU
+Added Member To Class: ClassName=Vesc Member=Component C7B C0402C225M8PACTU
+Added Member To Class: ClassName=Vesc Member=Component C8B C0402C225M8PACTU
+Added Member To Class: ClassName=Vesc Member=Component C9B C0402C225M8PACTU
+Added Member To Class: ClassName=Vesc Member=Component C10B C0402C225M8PACTU
+Added Member To Class: ClassName=Vesc Member=Component C11B C0402C225M8PACTU
+Added Member To Class: ClassName=Vesc Member=Component C12B C0402C222J3RACTU
+Added Member To Class: ClassName=Vesc Member=Component C13B C0402C222J3RACTU
+Added Member To Class: ClassName=Vesc Member=Component C14B C0402C222J3RACTU
+Added Member To Class: ClassName=Vesc Member=Component C15B C0402C222J3RACTU
+Added Member To Class: ClassName=Vesc Member=Component C16B C0402C222J3RACTU
+Added Member To Class: ClassName=Vesc Member=Component C17B C0402C222J3RACTU
+Added Member To Class: ClassName=Vesc Member=Component C18B C0402C225M8PACTU
+Added Member To Class: ClassName=Vesc Member=Component C19B C0603C473K1RECAUTO
+Added Member To Class: ClassName=Vesc Member=Component C20B GRJ31CR72A105KE11L
+Added Member To Class: ClassName=Vesc Member=Component C21B C0402C103K5RACTU
+Added Member To Class: ClassName=Vesc Member=Component C22B C0402C225M8PACTU
+Added Member To Class: ClassName=Vesc Member=Component C23B C0402C225M8PACTU
+Added Member To Class: ClassName=Vesc Member=Component C30B C0402C225M8PACTU
+Added Member To Class: ClassName=Vesc Member=Component C33B C2012X5R1E106K125AB
+Added Member To Class: ClassName=Vesc Member=Component C34B C0402C225M8PACTU
+Added Member To Class: ClassName=Vesc Member=Component D1B LTST-C190KRKT
+Added Member To Class: ClassName=Vesc Member=Component D2B LTST-C190KRKT
+Added Member To Class: ClassName=Vesc Member=Component D3B NSR02100HT1G
+Added Member To Class: ClassName=Vesc Member=Component JAB 63849-1
+Added Member To Class: ClassName=Vesc Member=Component JBB 63849-1
+Added Member To Class: ClassName=Vesc Member=Component JCB 63849-1
+Added Member To Class: ClassName=Vesc Member=Component L1B CBC3225T220KR
+Added Member To Class: ClassName=Vesc Member=Component Q1B CSD19531Q5A
+Added Member To Class: ClassName=Vesc Member=Component Q2B SUP70060E-GE3
+Added Member To Class: ClassName=Vesc Member=Component Q3B CSD19531Q5A
+Added Member To Class: ClassName=Vesc Member=Component Q4B SUP70060E-GE3
+Added Member To Class: ClassName=Vesc Member=Component Q5B CSD19531Q5A
+Added Member To Class: ClassName=Vesc Member=Component Q6B SUP70060E-GE3
+Added Member To Class: ClassName=Vesc Member=Component R1B ERJ-PA3J4R7V
+Added Member To Class: ClassName=Vesc Member=Component R2B ERJ-PA3J4R7V
+Added Member To Class: ClassName=Vesc Member=Component R3B ERJ-PA3J4R7V
+Added Member To Class: ClassName=Vesc Member=Component R4B ERJ-PA3J4R7V
+Added Member To Class: ClassName=Vesc Member=Component R5B ERJ-PA3J4R7V
+Added Member To Class: ClassName=Vesc Member=Component R6B ERJ-PA3J4R7V
+Added Member To Class: ClassName=Vesc Member=Component R7B ERJ-2RKF3902X
+Added Member To Class: ClassName=Vesc Member=Component R8B ERJ-2RKF3902X
+Added Member To Class: ClassName=Vesc Member=Component R9B ERJ-2RKF3902X
+Added Member To Class: ClassName=Vesc Member=Component R10B WSLF2512L5000FEA
+Added Member To Class: ClassName=Vesc Member=Component R11B WSLF2512L5000FEA
+Added Member To Class: ClassName=Vesc Member=Component R12B WSLF2512L5000FEA
+Added Member To Class: ClassName=Vesc Member=Component R13B ERJ-2RKF2201X
+Added Member To Class: ClassName=Vesc Member=Component R14B ERJ-2RKF2201X
+Added Member To Class: ClassName=Vesc Member=Component R15B ERJ-2RKF2201X
+Added Member To Class: ClassName=Vesc Member=Component R16B ERJ-2RKF1002X
+Added Member To Class: ClassName=Vesc Member=Component R17B ERJ-2RKF1002X
+Added Member To Class: ClassName=Vesc Member=Component R18B ERJ-2RKF1002X
+Added Member To Class: ClassName=Vesc Member=Component R19B ERJ-2RKF3902X
+Added Member To Class: ClassName=Vesc Member=Component R20B ERJ-2RKF2201X
+Added Member To Class: ClassName=Vesc Member=Component R21B ERJ-2RKF3902X
+Added Member To Class: ClassName=Vesc Member=Component R22B ERJ-2RKF2201X
+Added Member To Class: ClassName=Vesc Member=Component R23B ERJ-2RKF3902X
+Added Member To Class: ClassName=Vesc Member=Component R24B ERJ-2RKF2201X
+Added Member To Class: ClassName=Vesc Member=Component R25B ERJ-2RKF1000X
+Added Member To Class: ClassName=Vesc Member=Component R26B ERJ-2RKF1000X
+Added Member To Class: ClassName=Vesc Member=Component R27B ERJ-2RKF1000X
+Added Member To Class: ClassName=Vesc Member=Component R28B ERJ-2RKF1000X
+Added Member To Class: ClassName=Vesc Member=Component R29B ERJ-2RKF1000X
+Added Member To Class: ClassName=Vesc Member=Component R30B ERJ-2RKF1000X
+Added Member To Class: ClassName=Vesc Member=Component R31B ERJ-2RKF1000X
+Added Member To Class: ClassName=Vesc Member=Component R32B ERJ-2RKF1000X
+Added Member To Class: ClassName=Vesc Member=Component R33B ERJ-2RKF2611X
+Added Member To Class: ClassName=Vesc Member=Component R34B ERJ-2RKF1002X
+Added Member To Class: ClassName=Vesc Member=Component R35B ERJ-2RKF2743X
+Added Member To Class: ClassName=Vesc Member=Component R36B ERJ-2RKF1003X
+Added Member To Class: ClassName=Vesc Member=Component R37B ERJ-2RKF4702X
+Added Member To Class: ClassName=Vesc Member=Component U1B STM32F405RGT6
+Added Member To Class: ClassName=Vesc Member=Component U3B DRV8353RH

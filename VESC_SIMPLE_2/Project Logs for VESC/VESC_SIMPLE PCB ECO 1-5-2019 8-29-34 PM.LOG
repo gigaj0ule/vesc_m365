@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VCC_12V Pin=J10-8
+Removed Pin From Net: NetName=DISABLE_GATES Pin=J10-14
+Added Pin To Net: NetName=DISABLE_GATES Pin=J10-13
+Added Pin To Net: NetName=VCC_12V Pin=J10-14
