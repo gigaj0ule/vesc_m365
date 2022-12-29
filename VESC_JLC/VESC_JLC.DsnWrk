@@ -2,3 +2,13 @@
 Version=1.0
 [Project1]
 ProjectPath=VESC_JLC.PrjPcb
+[Project2]
+ProjectPath=..\..\poe_rcvr\POE_RCVR.PrjPCB
+[Project3]
+ProjectPath=..\..\bms\bms_devboard_relay\BMS_DEVBOARD.PrjPCB
+[Project4]
+ProjectPath=..\..\micro_inverter\exciter\exciter.PrjPCB
+[Project5]
+ProjectPath=..\..\micro_inverter\rectifier\rectifier.PrjPCB
+[Project6]
+ProjectPath=..\..\solarmagic\mppt\mppt.PrjPCB
